@@ -27,14 +27,12 @@ def save_string_to_file(text, directory, filename):
     os.makedirs(directory, exist_ok=True)
     path = os.path.join(directory, filename)
     
-    with open(path, 'w') as f:
+    with open(path, 'w', encoding='utf-8') as f:
         f.write(text)
     return None
 
 def save_url_to_a_file():
     text = download_url_to_string(stadiums_url)
-    
-    #t = text.encode(encoding="utf-8")
     save_string_to_file(text, stadiums_directory, frontpage_filename)
     return None
 
