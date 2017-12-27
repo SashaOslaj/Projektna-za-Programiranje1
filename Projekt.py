@@ -36,3 +36,49 @@ def save_url_to_a_file():
     save_string_to_file(text, stadiums_directory, frontpage_filename)
     return None
 
+def read_file_to_string(directory, filename):
+    path = os.path.join(directory, filename)
+    with open(path, 'r', encoding='utf-8') as file_in:
+        return file_in.read()
+
+
+zapomni = (r'<tr>'
+            + r'(.*?)'
+            + r'<td><a href="(.*?)" title="(?P<title_of_stadium>.+?)">(.+?)</a></td>'
+            + r'(.*?)'
+            + r'<td>(?P<capacitet_of_stadium>.+?)<sup (.*?)></td>'
+            + r'(.*?)'
+            + r'<td><a href="(.*?)" title="(?P<city_where_is_stadium>.+?)">(.+?)</a></td>'
+            + r'(.*?)'
+            + r'<td>(?P<country_where_is_stadium>.+?)</td>'
+            + r'(.*?)'
+            + r'<td><a href="(.*?)" title="(?P<team_that_trains_at_stadium>.+?)">(.+?)</a>(.*?)</td>'
+            + r'(.*?)'
+            + r'</tr>'
+            )
+
+def page_to_table(page):
+    rx = re.compile(r'<tr>'
+                    + r'(.*?)'
+                    + r'<td><a href=(.*?) title=(.*?)>(?P<title_of_stadium>.+?)</a></td>'
+                    + r'(.*?)'
+                    + r'<td>(?P<capacitet_of_stadium>.+?)<sup (.*?)></td>'
+                    + r'(.*?)'
+                    + r'<td><a(.*?)>(?P<city_where_is_stadium>.+?)</a></td>'
+                    + r'(.*?)'
+                    + r'<td>(?P<country_where_is_stadium>.+?)</td>'
+                    + r'(.*?)'
+                    + r'<td><a href=(.*?) title=(.*?)>(?P<team_that_trains_at_stadium>.+?)</a>(.*?)</td>'
+                    + r'(.*?)'
+                    + r'</tr>',                    
+                    re.DOTALL)
+    stadiums = re.findall(rx, page)
+    return stadiums
+                    
+table = page_to_table(read_file_to_string(stadiums_directory, frontpage_filename))
+
+
+
+
+
+        
