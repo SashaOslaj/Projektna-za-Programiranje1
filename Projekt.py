@@ -1,7 +1,8 @@
 import requests
 import re
 import os
-#import csv
+
+# import csv
 
 stadiums_url = 'https://en.wikipedia.org/wiki/List_of_stadiums_by_capacity'
 stadiums_directory = 'stadiums'
@@ -47,23 +48,27 @@ def read_file_to_string(directory, filename):
         return file_in.read()
 
 
-def page_to_table(page):
+def stadiums(page):
     rx = re.compile(r'<tr>'
-                    r'(.*?)'
-                    r'<td><a href="(\w+)" title="(\w+)">(?P<title_of_stadium>.+?)</a></td>'
-                    r'(.*?)'
-                    r'<td>(?P<capacity_of_stadium>.+?)<sup (.*?)></td>'
-                    r'(.*?)'
-                    r'<td><a(.*?)>(?P<city_where_is_stadium>.+?)</a></td>'
-                    r'(.*?)'
+                    r'.+?'
+                    r'<td><a .+?>(?P<name_of_stadium>.*?)</a>.?.?.?.?.?.?.?</td>'
+                    r'.+?'
+                    r'<td>(?P<capacitet_of_stadium>\d{2,},\d\d\d).+?</td>'
+                    r'.+?'
+                    r'<td><a .*?>(?P<city_where_is_stadium>.+?)</a></td>'
+                    r'.+?'
                     r'<td>(?P<country_where_is_stadium>.+?)</td>'
-                    r'(.*?)'
-                    r'<td><a href="(.*?)" title="(.*?)">(?P<team_that_trains_at_stadium>.+?)</a>(.*?)</td>'
-                    r'(.*?)'
-                    r'</tr>',
+                    r'.+?'
+                    r'<td><a .*?>(?P<team_that_trains_at_stadium>.+?)</a>.*?</td>'
+                    r'.+?'
+                    r'<td>.*?</td>'
+                    r'.+?'
+                    r'</tr>'
+                    ,
                     re.DOTALL)
-    stadiums = re.search(rx, page)
-    return stadiums
+    note = re.findall(rx, page)
+    return note
 
-table = page_to_table(read_file_to_string(stadiums_directory, frontpage_filename))
 
+
+print(stadiums(read_file_to_string(stadiums_directory, frontpage_filename)))
