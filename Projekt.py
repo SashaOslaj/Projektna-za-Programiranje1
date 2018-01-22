@@ -1,8 +1,8 @@
 import requests
 import re
 import os
-# import csv
-
+import csv
+import json
 
 stadiums_url = 'https://en.wikipedia.org/wiki/List_of_stadiums_by_capacity'
 stadiums_directory = 'stadiums'
@@ -62,24 +62,6 @@ def stadiums(page):
     '''function returns list of tuples.'''
     rx = re.compile(r'<tr>'
                     r'.+?'
-                    # name of stadium
-                    r'<td><a .+?>(?P<name_of_stadium>.*?)</a>.?.?.?.?.?.?.?</td>'
-                    r'.+?'
-                    # stadium capacety
-                    r'<td>(?P<capacitet_of_stadium>\d{2,3},\d\d\d).+?</td>'
-                    r'.+?'
-                    # city where is stadium
-                    r'<td><a .*?>(?P<city_where_is_stadium>.+?)</a></td>'
-                    r'.+?'
-                    # country where is stadium
-                    r'<td>(?P<country_where_is_stadium>.+?)</td>'
-                    r'.+?'
-                    # which team trains at stadium
-                    r'<td><a .*?>(?P<team_that_trains_at_stadium>.+?)</a>.*?</td>'
-                    r'.+?'
-                    # main use of stadium
-                    r'<td>.*?</td>'
-                    r'.+?'
                     r'</tr>'
                     ,
                     re.DOTALL)
@@ -87,4 +69,85 @@ def stadiums(page):
     return note
 
 
-print(stadiums(read_file_to_string(stadiums_directory, frontpage_filename)))
+def stadium(sez):
+    new_list = []
+    num = 0
+    for i in sez:
+        if num != 0:
+            new_list.append(i)
+        else:
+            num += 1
+    return new_list
+
+
+def razclenjeni_stadioni(sez):
+    '''Function from file frontpage returns list of stadiums.'''
+    new_list = []
+    rx = re.compile(r'<td><a href="/wiki/.*?" title="(?P<name>.*?)">.*?</a>.*?</td>'
+                    r'.+?'
+                    r'<td>(?P<capacity>\d{2,3},\d\d\d).*?</td>'
+                    r'.+?'
+                    r'<td>(<a href=".*?" title=".+?">)?(?P<city_where_is_stadium>.*?)(</a>.*?)?</td>'
+                    r'.+?'
+                    r'<td>(<.*?>)?(?P<country_where_is_stadium>.*?)(</.*?>)?</td>'
+                    r'.+?'
+                    r'<td>(<.*?>)?(?P<team_that_trains_at_stadium>.*?)(<.*?>.*?)?</td>'
+                    r'.+?'
+                    r'<td>(<a .*?>)?(?P<main_use1>.*?)(</a>)?'
+                    r'(,? (and)? (<a .*?>)?(?P<main_use2>.*?)(</a>)?)?'
+                    r'(, (<a .*?>)?(?P<main_use3>.*?)(</a>)?)?'
+                    r'(, (<a .*?>)?(?P<main_use4>.*?)(</a>)?.?)?'
+                    r'(((, (<a .*?>)?(?P<main_use5>.+?)(</a>)?)?))</td>'
+                    , re.DOTALL
+                    )
+    for i in sez:
+        nabor = re.findall(rx, i)
+        dolzina = 0
+        for y in nabor:
+            dolzina += len(y)
+        # print(dolzina)
+        for y in nabor:
+            #            print(y)
+            new_list.append((y[0], y[1], y[3], y[6], y[9], y[12], y[21], y[25], y[31], y[32]))
+    return new_list
+
+
+# ['name', 'capacity', 'city', 'country', 'team', 'use']
+
+def slovar_stadionov(sez):
+    l = []
+    for nabor in sez:
+        stadion = {}
+        for i, j in enumerate(nabor):
+            if i == 0:
+                stadion['name'] = j
+            if i == 1:
+                stadion['capacity'] = j
+            if i == 2:
+                stadion['city'] = j
+            if i == 3:
+                stadion['cauntry'] = j
+            if i == 4:
+                stadion['team'] = j
+            if i == 5:
+                stadion['use'] = [j]
+            if i > 5:
+                if j != '':
+                    stadion['use'].append(j)
+        l.append(stadion)
+    return l
+
+
+def zapisi_json(podatki, ime_datoteke):
+    with open(ime_datoteke, 'w') as datoteka:
+        json.dump(podatki, datoteka, indent=2)
+
+# podatki = ['name', 'capacity', 'city', 'country', 'team', 'use']
+stadioni = stadium(stadiums(read_file_to_string(stadiums_directory, frontpage_filename)))
+# print(stadioni)
+# seznam = razclenjeni_stadioni(stadioni)
+# print(len(seznam))
+# print(seznam)
+# print(slovar_stadionov(seznam))
+# json_dat = zapisi_json(slovar_stadionov(seznam), 'stadiums.json')
+# csv_dat = write_stad_csv(slovar_stadionov(seznam))

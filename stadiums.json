@@ -1,0 +1,5433 @@
+[
+  {
+    "cauntry": "North Korea",
+    "capacity": "114,000",
+    "name": "Rungrado 1st of May Stadium",
+    "city": "Pyongyang",
+    "use": [
+      "Association football",
+      "athletics",
+      "mass games"
+    ],
+    "team": "Korea DPR national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "107,601",
+    "name": "Michigan Stadium",
+    "city": "Ann Arbor, Michigan",
+    "use": [
+      "American football"
+    ],
+    "team": "Michigan Wolverines football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "106,572",
+    "name": "Beaver Stadium",
+    "city": "State College, Pennsylvania",
+    "use": [
+      "American football"
+    ],
+    "team": "Penn State Nittany Lions football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "104,944",
+    "name": "Ohio Stadium",
+    "city": "Columbus, Ohio",
+    "use": [
+      "American football"
+    ],
+    "team": "Ohio State Buckeyes football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "102,733",
+    "name": "Kyle Field",
+    "city": "College Station, Texas",
+    "use": [
+      "American football"
+    ],
+    "team": "Texas A&amp;M Aggies football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "102,455",
+    "name": "Neyland Stadium",
+    "city": "Knoxville, Tennessee",
+    "use": [
+      "American football"
+    ],
+    "team": "Tennessee Volunteers football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "102,321",
+    "name": "Tiger Stadium (LSU)",
+    "city": "Baton Rouge, Louisiana",
+    "use": [
+      "American football"
+    ],
+    "team": "LSU Tigers football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "101,821",
+    "name": "Bryant\u2013Denny Stadium",
+    "city": "Tuscaloosa, Alabama",
+    "use": [
+      "American football"
+    ],
+    "team": "Alabama Crimson Tide football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "100,119",
+    "name": "Darrell K Royal\u2013Texas Memorial Stadium",
+    "city": "Austin, Texas",
+    "use": [
+      "American football"
+    ],
+    "team": "Texas Longhorns football"
+  },
+  {
+    "cauntry": "Australia",
+    "capacity": "100,024",
+    "name": "Melbourne Cricket Ground",
+    "city": "Melbourne",
+    "use": [
+      "Cricket",
+      "Australian rules football"
+    ],
+    "team": "Victorian Bushrangers"
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "99,354",
+    "name": "Camp Nou",
+    "city": "Barcelona",
+    "use": [
+      "Association football"
+    ],
+    "team": "FC Barcelona"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "94,736",
+    "name": "Soccer City",
+    "city": "Johannesburg",
+    "use": [
+      "Association football"
+    ],
+    "team": "South African national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "93,607",
+    "name": "Los Angeles Memorial Coliseum",
+    "city": "Los Angeles",
+    "use": [
+      "American football"
+    ],
+    "team": "USC Trojans football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "92,746",
+    "name": "Sanford Stadium",
+    "city": "Athens, Georgia",
+    "use": [
+      "American football"
+    ],
+    "team": "Georgia Bulldogs football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "92,542",
+    "name": "Rose Bowl (stadium)",
+    "city": "Pasadena, California",
+    "use": [
+      "American football"
+    ],
+    "team": "UCLA Bruins football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "92,100",
+    "name": "Cotton Bowl (stadium)",
+    "city": "Dallas",
+    "use": [
+      "American football"
+    ],
+    "team": "Dallas Independent School District"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "90,000",
+    "name": "Wembley Stadium",
+    "city": "London",
+    "use": [
+      "Association football",
+      "rugby league",
+      "American Footbal"
+    ],
+    "team": "England national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "88,548",
+    "name": "Ben Hill Griffin Stadium",
+    "city": "Gainesville, Florida",
+    "use": [
+      "American football"
+    ],
+    "team": "Florida Gators football"
+  },
+  {
+    "cauntry": "Indonesia",
+    "capacity": "88,306",
+    "name": "Gelora Bung Karno Stadium",
+    "city": "Jakarta",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Persija Jakarta"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "87,451",
+    "name": "Jordan\u2013Hare Stadium",
+    "city": "Auburn, Alabama",
+    "use": [
+      "American football"
+    ],
+    "team": "Auburn Tigers football"
+  },
+  {
+    "cauntry": "Malaysia",
+    "capacity": "87,411",
+    "name": "Bukit Jalil National Stadium",
+    "city": "Kuala Lumpur",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Malaysia national football team"
+  },
+  {
+    "cauntry": "Mexico",
+    "capacity": "87,000",
+    "name": "Estadio Azteca",
+    "city": "Mexico City",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club Am\u00e9rica"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "86,047",
+    "name": "Memorial Stadium, Lincoln",
+    "city": "Lincoln, Nebraska",
+    "use": [
+      "American football"
+    ],
+    "team": "Nebraska Cornhuskers football"
+  },
+  {
+    "cauntry": "Egypt",
+    "capacity": "86,000",
+    "name": "Borg El Arab Stadium",
+    "city": "Alexandria",
+    "use": [
+      "Association football"
+    ],
+    "team": "Egypt national football team"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "85,000",
+    "name": "Salt Lake Stadium",
+    "city": "Kolkata",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "India national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "84,389",
+    "name": "Gaylord Family Oklahoma Memorial Stadium",
+    "city": "Norman, Oklahoma",
+    "use": [
+      "American football"
+    ],
+    "team": "Oklahoma Sooners football"
+  },
+  {
+    "cauntry": "Australia",
+    "capacity": "84,000",
+    "name": "Stadium Australia",
+    "city": "Sydney",
+    "use": [
+      "Rugby league",
+      "rugby union",
+      "cricket",
+      "Australian rules football",
+      "</a>"
+    ],
+    "team": "New South Wales Blues"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "82,500",
+    "name": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "use": [
+      "American football",
+      "association football"
+    ],
+    "team": "New York Giants"
+  },
+  {
+    "cauntry": "Ireland",
+    "capacity": "82,300",
+    "name": "Croke Park",
+    "city": "Dublin",
+    "use": [
+      "Gaelic football",
+      "hurling",
+      "camogie"
+    ],
+    "team": "GAA"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "82,000",
+    "name": "FedExField",
+    "city": "Landover, Maryland",
+    "use": [
+      "American football"
+    ],
+    "team": "Washington Redskins"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "82,000",
+    "name": "Twickenham Stadium",
+    "city": "London",
+    "use": [
+      "Rugby union"
+    ],
+    "team": "England national rugby union team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "81,500",
+    "name": "Memorial Stadium (Clemson)",
+    "city": "Clemson",
+    "use": [
+      "American football"
+    ],
+    "team": "Clemson Tigers football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "81,441",
+    "name": "Lambeau Field",
+    "city": "Green Bay, Wisconsin",
+    "use": [
+      "American football"
+    ],
+    "team": "Green Bay Packers"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "81,359",
+    "name": "Signal Iduna Park",
+    "city": "Dortmund",
+    "use": [
+      "Association football"
+    ],
+    "team": "Borussia Dortmund"
+  },
+  {
+    "cauntry": "France",
+    "capacity": "81,338",
+    "name": "Stade de France",
+    "city": "Saint-Denis",
+    "use": [
+      "Association football",
+      "rugby union",
+      "rugby league",
+      "athletics"
+    ],
+    "team": "France national football team"
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "81,044",
+    "name": "Santiago Bernab\u00e9u Stadium",
+    "city": "Madrid",
+    "use": [
+      "Association football"
+    ],
+    "team": "Real Madrid C.F."
+  },
+  {
+    "cauntry": "Russia",
+    "capacity": "81,000",
+    "name": "Luzhniki Stadium",
+    "city": "Moscow",
+    "use": [
+      "Association football"
+    ],
+    "team": "none"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "80,795",
+    "name": "Notre Dame Stadium",
+    "city": "South Bend, Indiana",
+    "use": [
+      "American football"
+    ],
+    "team": "Notre Dame Fighting Irish football"
+  },
+  {
+    "cauntry": "Malaysia",
+    "capacity": "80,372",
+    "name": "Shah Alam Stadium",
+    "city": "Shah Alam",
+    "use": [
+      "Association football"
+    ],
+    "team": "PKNS FC"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "80,321",
+    "name": "Camp Randall Stadium",
+    "city": "Madison, Wisconsin",
+    "use": [
+      "American football"
+    ],
+    "team": "Wisconsin Badgers football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "80,250",
+    "name": "Williams-Brice Stadium",
+    "city": "Columbia, South Carolina",
+    "use": [
+      "American football"
+    ],
+    "team": "South Carolina Gamecocks football"
+  },
+  {
+    "cauntry": "Peru",
+    "capacity": "80,093",
+    "name": "Estadio Monumental &quot;U&quot;",
+    "city": "Lima",
+    "use": [
+      "Association football"
+    ],
+    "team": "Universitario de Deportes"
+  },
+  {
+    "cauntry": "Italy",
+    "capacity": "80,018",
+    "name": "San Siro",
+    "city": "Milan",
+    "use": [
+      "Association football"
+    ],
+    "team": "F.C. Internazionale Milano"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "80,012",
+    "name": "Guangdong Olympic Stadium",
+    "city": "Guangzhou",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "80,000",
+    "name": "AT&amp;T Stadium",
+    "city": "Arlington, Texas",
+    "use": [
+      "American football"
+    ],
+    "team": "Dallas Cowboys"
+  },
+  {
+    "cauntry": "Morocco",
+    "capacity": "80,000",
+    "name": "Grand Stade de Casablanca",
+    "city": "Casablanca",
+    "use": [
+      "Association football"
+    ],
+    "team": "Raja Casablanca"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "80,000",
+    "name": "Beijing National Stadium",
+    "city": "Beijing",
+    "use": [
+      "Athletics",
+      "association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Algeria",
+    "capacity": "80,000",
+    "name": "Stade 5 Juillet 1962",
+    "city": "Algiers",
+    "use": [
+      "Association football"
+    ],
+    "team": "MC Algiers"
+  },
+  {
+    "cauntry": "Democratic Republic of the Congo",
+    "capacity": "80,000",
+    "name": "Stade des Martyrs",
+    "city": "Kinshasa",
+    "use": [
+      "Association football"
+    ],
+    "team": "Congo DR national football team"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "80,000",
+    "name": "Shanghai Stadium",
+    "city": "Shanghai",
+    "use": [
+      "Association football"
+    ],
+    "team": "Shanghai East Asia F.C."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "79,560",
+    "name": "Bobby Bowden Field at Doak Campbell Stadium",
+    "city": "Tallahassee, Florida",
+    "use": [
+      "American football"
+    ],
+    "team": "Florida State Seminoles football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "79,451",
+    "name": "Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "use": [
+      "American football"
+    ],
+    "team": "Kansas City Chiefs"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "78,838",
+    "name": "Maracan\u00e3 (stadium)",
+    "city": "Rio de Janeiro",
+    "use": [
+      "Association football"
+    ],
+    "team": "Flamengo"
+  },
+  {
+    "cauntry": "Iran",
+    "capacity": "78,116",
+    "name": "Azadi Stadium",
+    "city": "Tehran",
+    "use": [
+      "Association football"
+    ],
+    "team": "Iran national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "76,867",
+    "name": "EverBank Field",
+    "city": "Jacksonville, Florida",
+    "use": [
+      "American football"
+    ],
+    "team": "Jacksonville Jaguars"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "76,125",
+    "name": "Sports Authority Field at Mile High",
+    "city": "Denver",
+    "use": [
+      "American football",
+      "lacrosse"
+    ],
+    "team": "Denver Broncos"
+  },
+  {
+    "cauntry": "Turkey",
+    "capacity": "76,092",
+    "name": "Atat\u00fcrk Olympic Stadium",
+    "city": "Istanbul",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "\u0130stanbul B\u00fcy\u00fck\u015fehir Belediyesi S.K."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "76,000",
+    "name": "Donald W. Reynolds Razorback Stadium",
+    "city": "Fayetteville, Arkansas",
+    "use": [
+      "American football"
+    ],
+    "team": "Arkansas Razorbacks football"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "75,639",
+    "name": "Old Trafford",
+    "city": "Manchester",
+    "use": [
+      "Association football",
+      "rugby league"
+    ],
+    "team": "Manchester United F.C."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "75,025",
+    "name": "Spartan Stadium (East Lansing)",
+    "city": "East Lansing, Michigan",
+    "use": [
+      "American football"
+    ],
+    "team": "Michigan State Spartans football"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "75,024",
+    "name": "Allianz Arena",
+    "city": "Munich",
+    "use": [
+      "Association football"
+    ],
+    "team": "Bayern Munich"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "75,000",
+    "name": "Jawaharlal Nehru Stadium, Kochi",
+    "city": "Kochi",
+    "use": [
+      "Association football",
+      "cricket"
+    ],
+    "team": "Indian Cricket Team"
+  },
+  {
+    "cauntry": "Egypt",
+    "capacity": "75,000",
+    "name": "Cairo International Stadium",
+    "city": "Cairo",
+    "use": [
+      "Association football"
+    ],
+    "team": "Egypt national football team"
+  },
+  {
+    "cauntry": "Iran",
+    "capacity": "75,000",
+    "name": "Naghsh-e-Jahan Stadium",
+    "city": "Isfahan",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sepahan F.C."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "65,326",
+    "name": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "use": [
+      "American football",
+      "baseball"
+    ],
+    "team": "Miami Dolphins"
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "74,624",
+    "name": "Estadio Monumental Antonio Vespucio Liberti",
+    "city": "Buenos Aires",
+    "use": [
+      "Association football"
+    ],
+    "team": "Argentina national football team"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "74,500",
+    "name": "Principality Stadium",
+    "city": "Cardiff",
+    "use": [
+      "Rugby union",
+      "association football",
+      "rugby league"
+    ],
+    "team": "Wales national rugby union team"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "74,228",
+    "name": "Olympic Stadium (Berlin)",
+    "city": "Berlin",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Hertha BSC Berlin"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "73,967",
+    "name": "Ralph Wilson Stadium",
+    "city": "Orchard Park, New York",
+    "use": [
+      "American football"
+    ],
+    "team": "Buffalo Bills"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "73,298",
+    "name": "Bank of America Stadium",
+    "city": "Charlotte, North Carolina",
+    "use": [
+      "American football"
+    ],
+    "team": "Carolina Panthers"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "73,208",
+    "name": "Mercedes-Benz Superdome",
+    "city": "New Orleans",
+    "use": [
+      "American football",
+      "association football",
+      "basebal"
+    ],
+    "team": "New Orleans Saints"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "73,200",
+    "name": "FirstEnergy Stadium (Cleveland)",
+    "city": "Cleveland",
+    "use": [
+      "American football"
+    ],
+    "team": "Cleveland Browns"
+  },
+  {
+    "cauntry": "Italy",
+    "capacity": "72,698",
+    "name": "Stadio Olimpico",
+    "city": "Rome",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "A.S. Roma"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "72,327",
+    "name": "International Stadium Yokohama",
+    "city": "Yokohama",
+    "use": [
+      "Association football"
+    ],
+    "team": "Yokohama F. Marinos"
+  },
+  {
+    "cauntry": "Indonesia",
+    "capacity": "72,000",
+    "name": "Gelora Bandung Lautan Api Stadium",
+    "city": "Bandung",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Persib Bandung"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "72,000",
+    "name": "NRG Stadium",
+    "city": "Houston",
+    "use": [
+      "American football"
+    ],
+    "team": "Houston Texans"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "72,000",
+    "name": "Legion Field",
+    "city": "Birmingham, Alabama",
+    "use": [
+      "American football"
+    ],
+    "team": "UAB Blazers football"
+  },
+  {
+    "cauntry": "Greece",
+    "capacity": "71,030",
+    "name": "Olympic Stadium (Athens)",
+    "city": "Athens",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "AEK Athens"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "71,008",
+    "name": "M&amp;T Bank Stadium",
+    "city": "Baltimore",
+    "use": [
+      "American football"
+    ],
+    "team": "Baltimore Ravens"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "71,004",
+    "name": "Faurot Field",
+    "city": "Columbia, Missouri",
+    "use": [
+      "American football"
+    ],
+    "team": "Missouri Tigers football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "71,000",
+    "name": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "use": [
+      "American football",
+      "association football"
+    ],
+    "team": "Atlanta Falcons"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "70,585",
+    "name": "Kinnick Stadium",
+    "city": "Iowa City, Iowa",
+    "use": [
+      "American football"
+    ],
+    "team": "Iowa Hawkeyes football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "70,561",
+    "name": "SDCCU Stadium",
+    "city": "San Diego",
+    "use": [
+      "American football",
+      "baseball"
+    ],
+    "team": "San Diego State Aztecs football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "70,138",
+    "name": "Husky Stadium",
+    "city": "Seattle",
+    "use": [
+      "American football"
+    ],
+    "team": "Washington Huskies football"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "70,064",
+    "name": "Est\u00e1dio Nacional de Bras\u00edlia",
+    "city": "Bras\u00edlia",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sociedade Esportiva do Gama"
+  },
+  {
+    "cauntry": "Ukraine",
+    "capacity": "70,050",
+    "name": "Olimpiyskiy National Sports Complex",
+    "city": "Kiev",
+    "use": [
+      "Association football",
+      "Athletics"
+    ],
+    "team": "FK Dynamo Kyiv"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "69,950",
+    "name": "Seoul Olympic Stadium",
+    "city": "Seoul",
+    "use": [
+      "Athletics",
+      "association football"
+    ],
+    "team": "Korea Republic national football team"
+  },
+  {
+    "cauntry": "Azerbaijan",
+    "capacity": "69,870",
+    "name": "Baku National Stadium",
+    "city": "Baku",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Azerbaijan national football team"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "69,250",
+    "name": "Olympic Stadium (Munich)",
+    "city": "Munich",
+    "use": [
+      "Athletics"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "69,143",
+    "name": "Nissan Stadium",
+    "city": "Nashville, Tennessee",
+    "use": [
+      "American football"
+    ],
+    "team": "Tennessee Titans"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "68,756",
+    "name": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "use": [
+      "American football",
+      "association football"
+    ],
+    "team": "New England Patriots"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "68,532",
+    "name": "Lincoln Financial Field",
+    "city": "Philadelphia",
+    "use": [
+      "American football"
+    ],
+    "team": "Philadelphia Eagles"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "68,500",
+    "name": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "use": [
+      "American football"
+    ],
+    "team": "San Francisco 49ers"
+  },
+  {
+    "cauntry": "Russia",
+    "capacity": "68,134",
+    "name": "Krestovsky Stadium",
+    "city": "Saint Petersburg",
+    "use": [
+      "Association football"
+    ],
+    "team": "FC Zenit Saint Petersburg"
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "67,703",
+    "name": "Wanda Metropolitano",
+    "city": "Madrid",
+    "use": [
+      "Association football"
+    ],
+    "team": "Atl\u00e9tico Madrid"
+  },
+  {
+    "cauntry": "France",
+    "capacity": "67,344",
+    "name": "Stade V\u00e9lodrome",
+    "city": "Marseille",
+    "use": [
+      "Association football",
+      "rugby union"
+    ],
+    "team": "Olympique de Marseille"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "67,144",
+    "name": "Murrayfield Stadium",
+    "city": "Edinburgh",
+    "use": [
+      "Rugby union"
+    ],
+    "team": "Scotland national rugby union team"
+  },
+  {
+    "cauntry": "Indonesia",
+    "capacity": "67,075",
+    "name": "Palaran Stadium",
+    "city": "Samarinda",
+    "use": [
+      "Athletics",
+      "association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "67,052",
+    "name": "Est\u00e1dio do Morumbi",
+    "city": "S\u00e3o Paulo",
+    "use": [
+      "Association football"
+    ],
+    "team": "S\u00e3o Paulo FC"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "67,000",
+    "name": "CenturyLink Field",
+    "city": "Seattle",
+    "use": [
+      "American football",
+      "association football"
+    ],
+    "team": "Seattle Seahawks"
+  },
+  {
+    "cauntry": "Saudi Arabia",
+    "capacity": "67,000",
+    "name": "King Fahd International Stadium",
+    "city": "Riyadh",
+    "use": [
+      "Association football"
+    ],
+    "team": "Al Nasr"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "66,965",
+    "name": "The Dome at America's Center",
+    "city": "St. Louis",
+    "use": [
+      ""
+    ],
+    "team": "None"
+  },
+  {
+    "cauntry": "Iran",
+    "capacity": "66,833",
+    "name": "Yadegar-e Emam Stadium",
+    "city": "Tabriz",
+    "use": [
+      "Association football"
+    ],
+    "team": "Teraktor Sazi"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "66,806",
+    "name": "Seoul World Cup Stadium",
+    "city": "Seoul",
+    "use": [
+      "Association football"
+    ],
+    "team": "Korea Republic national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "66,655",
+    "name": "U.S. Bank Stadium",
+    "city": "Minneapolis",
+    "use": [
+      "American football"
+    ],
+    "team": "Minnesota Vikings"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "66,422",
+    "name": "Daegu Stadium",
+    "city": "Daegu",
+    "use": [
+      "Athletics",
+      "association football"
+    ],
+    "team": "Daegu FC"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "66,349",
+    "name": "Eden Gardens",
+    "city": "Kolkata",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Indian national cricket team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "66,233",
+    "name": "Lane Stadium",
+    "city": "Blacksburg, Virginia",
+    "use": [
+      "American football"
+    ],
+    "team": "Virginia Tech Hokies football"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "66,000",
+    "name": "London Stadium",
+    "city": "London",
+    "use": [
+      "Athletics",
+      "association football",
+      "cricket",
+      "rugby union</a>, <a href=\"/wiki/Rugby_league\" title=\"Rugby league\">rugby league",
+      "</a>"
+    ],
+    "team": "West Ham United F.C."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "65,870",
+    "name": "Sun Devil Stadium",
+    "city": "Tempe, Arizona",
+    "use": [
+      "American football"
+    ],
+    "team": "Arizona State Sun Devils football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "65,847",
+    "name": "Raymond James Stadium",
+    "city": "Tampa, Florida",
+    "use": [
+      "American football"
+    ],
+    "team": "Tampa Bay Buccaneers"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "65,535",
+    "name": "Paul Brown Stadium",
+    "city": "Cincinnati",
+    "use": [
+      "American football"
+    ],
+    "team": "Cincinnati Bengals"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "65,438",
+    "name": "Camping World Stadium",
+    "city": "Orlando, Florida",
+    "use": [
+      "American football",
+      "association football"
+    ],
+    "team": "Jones High School, Orlando"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "68,400",
+    "name": "Heinz Field",
+    "city": "Pittsburgh",
+    "use": [
+      "American football"
+    ],
+    "team": "Pittsburgh Steelers"
+  },
+  {
+    "cauntry": "Uruguay",
+    "capacity": "65,045",
+    "name": "Estadio Centenario",
+    "city": "Montevideo",
+    "use": [
+      "Association football"
+    ],
+    "team": "Uruguay national football team"
+  },
+  {
+    "cauntry": "Iraq",
+    "capacity": "65,000",
+    "name": "Basra Sports City",
+    "city": "Basra",
+    "use": [
+      "Association football"
+    ],
+    "team": "Iraq national football team"
+  },
+  {
+    "cauntry": "Mexico",
+    "capacity": "65,000",
+    "name": "Foro Sol",
+    "city": "Mexico City",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Aut\u00f3dromo Hermanos Rodriguez"
+  },
+  {
+    "cauntry": "Malawi",
+    "capacity": "65,000",
+    "name": "Kamuzu Stadium",
+    "city": "Blantyre",
+    "use": [
+      "Association football"
+    ],
+    "team": "Malawi national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "65,000",
+    "name": "Alamodome",
+    "city": "San Antonio",
+    "use": [
+      "American football",
+      "baseball"
+    ],
+    "team": "UTSA Roadrunners football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "65,000",
+    "name": "Ford Field",
+    "city": "Detroit",
+    "use": [
+      "American football"
+    ],
+    "team": "Detroit Lions"
+  },
+  {
+    "cauntry": "Tunisia",
+    "capacity": "65,000",
+    "name": "Stade Olympique de Rad\u00e8s",
+    "city": "Rad\u00e8s",
+    "use": [
+      "Association football"
+    ],
+    "team": "Tunisia national football team"
+  },
+  {
+    "cauntry": "Kuwait",
+    "capacity": "65,000",
+    "name": "Jaber Al-Ahmad International Stadium",
+    "city": "Kuwait City",
+    "use": [
+      "Association football"
+    ],
+    "team": "Kuwait national football team"
+  },
+  {
+    "cauntry": "Libya",
+    "capacity": "65,000",
+    "name": "June 11 Stadium",
+    "city": "Tripoli",
+    "use": [
+      "Association football"
+    ],
+    "team": "Libya national football team"
+  },
+  {
+    "cauntry": "Portugal",
+    "capacity": "64,642",
+    "name": "Est\u00e1dio da Luz",
+    "city": "Lisbon",
+    "use": [
+      "Association football"
+    ],
+    "team": "Benfica"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "64,038",
+    "name": "Vaught\u2013Hemingway Stadium",
+    "city": "Oxford, Mississippi",
+    "use": [
+      "American football"
+    ],
+    "team": "Ole Miss Rebels football"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "64,000",
+    "name": "Workers Stadium",
+    "city": "Beijing",
+    "use": [
+      "Association football"
+    ],
+    "team": "Beijing Guoan"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "63,903",
+    "name": "Castel\u00e3o (Cear\u00e1)",
+    "city": "Fortaleza",
+    "use": [
+      "Association football"
+    ],
+    "team": "Cear\u00e1"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "63,725",
+    "name": "LaVell Edwards Stadium",
+    "city": "Provo, Utah",
+    "use": [
+      "American football"
+    ],
+    "team": "Brigham Young University Cougars football"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "63,700",
+    "name": "Saitama Stadium 2002",
+    "city": "Saitama",
+    "use": [
+      "Association football"
+    ],
+    "team": "Urawa Red Diamonds"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "63,400",
+    "name": "University of Phoenix Stadium",
+    "city": "Glendale, Arizona",
+    "use": [
+      "American football"
+    ],
+    "team": "Arizona Cardinals"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "63,186",
+    "name": "California Memorial Stadium",
+    "city": "Berkeley, California",
+    "use": [
+      "American football"
+    ],
+    "team": "California Golden Bears football"
+  },
+  {
+    "cauntry": "Mexico",
+    "capacity": "63,186",
+    "name": "Estadio Ol\u00edmpico Universitario",
+    "city": "Mexico City",
+    "use": [
+      "Association football",
+      "American football"
+    ],
+    "team": "Club Universidad Nacional"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "63,026",
+    "name": "Oakland\u2013Alameda County Coliseum",
+    "city": "Oakland, California",
+    "use": [
+      "American football",
+      "baseball"
+    ],
+    "team": "Oakland Raiders"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "63,000",
+    "name": "Lucas Oil Stadium",
+    "city": "Indianapolis",
+    "use": [
+      "American football",
+      "basketball"
+    ],
+    "team": "Indianapolis Colts"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "62,980",
+    "name": "Kenan Memorial Stadium",
+    "city": "Chapel Hill, North Carolina",
+    "use": [
+      "American football"
+    ],
+    "team": "North Carolina Tar Heels football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "62,872",
+    "name": "Memorial Stadium (Champaign)",
+    "city": "Champaign, Illinois",
+    "use": [
+      "American football"
+    ],
+    "team": "Illinois Fighting Illini football"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "62,567",
+    "name": "Ellis Park Stadium",
+    "city": "Johannesburg",
+    "use": [
+      "Rugby union",
+      "association football"
+    ],
+    "team": "Golden Lions"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "62,500",
+    "name": "Ross\u2013Ade Stadium",
+    "city": "West Lafayette, Indiana",
+    "use": [
+      "American football"
+    ],
+    "team": "Purdue Boilermakers football"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "62,271",
+    "name": "Veltins-Arena",
+    "city": "Gelsenkirchen",
+    "use": [
+      "Association football"
+    ],
+    "team": "FC Schalke 04"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "62,170",
+    "name": "Mineir\u00e3o Stadium",
+    "city": "Belo Horizonte",
+    "use": [
+      "Association football"
+    ],
+    "team": "Clube Atl\u00e9tico Mineiro"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "62,000",
+    "name": "Yizhong Sports Center",
+    "city": "Qingdao",
+    "use": [
+      "Association football"
+    ],
+    "team": "Qingdao Jonoon"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "61,500",
+    "name": "Jack Trice Stadium",
+    "city": "Ames, Iowa",
+    "use": [
+      "American football"
+    ],
+    "team": "Iowa State Cyclones football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "61,500",
+    "name": "Scott Stadium",
+    "city": "Charlottesville, Virginia",
+    "use": [
+      "American football"
+    ],
+    "team": "Virginia Cavaliers football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "61,500",
+    "name": "Soldier Field",
+    "city": "Chicago",
+    "use": [
+      "American football"
+    ],
+    "team": "Chicago Bears"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "61,446",
+    "name": "Yale Bowl",
+    "city": "New Haven, Connecticut",
+    "use": [
+      "American football"
+    ],
+    "team": "Yale Bulldogs football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "61,337",
+    "name": "Davis Wade Stadium",
+    "city": "Starkville, Mississippi",
+    "use": [
+      "American football"
+    ],
+    "team": "Mississippi State Bulldogs football"
+  },
+  {
+    "cauntry": "New Zealand",
+    "capacity": "61,136",
+    "name": "Eden Park",
+    "city": "Auckland",
+    "use": [
+      "Rugby union"
+    ],
+    "team": "New Zealand All Blacks"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "61,000",
+    "name": "Kroger Field",
+    "city": "Lexington, Kentucky",
+    "use": [
+      "American football"
+    ],
+    "team": "Kentucky Wildcats football"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "60,649",
+    "name": "Mercedes-Benz Arena (Stuttgart)",
+    "city": "Stuttgart",
+    "use": [
+      "Association football"
+    ],
+    "team": "VfB Stuttgart"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "60,540",
+    "name": "Gr\u00eamio Arena",
+    "city": "Porto Alegre",
+    "use": [
+      "Association football"
+    ],
+    "team": "Gr\u00eamio"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "60,492",
+    "name": "Mississippi Veterans Memorial Stadium",
+    "city": "Jackson, Mississippi",
+    "use": [
+      "American football"
+    ],
+    "team": "Jackson State Tigers"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "60,454",
+    "name": "Jones AT&amp;T Stadium",
+    "city": "Lubbock, Texas",
+    "use": [
+      "American football"
+    ],
+    "team": "Texas Tech Red Raiders football"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "60,411",
+    "name": "Celtic Park",
+    "city": "Glasgow",
+    "use": [
+      "Association football"
+    ],
+    "team": "Celtic F.C."
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "60,338",
+    "name": "Emirates Stadium",
+    "city": "London",
+    "use": [
+      "Association football"
+    ],
+    "team": "Arsenal F.C."
+  },
+  {
+    "cauntry": "Italy",
+    "capacity": "60,240",
+    "name": "Stadio San Paolo",
+    "city": "Naples",
+    "use": [
+      "Association football"
+    ],
+    "team": "Napoli"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "60,218",
+    "name": "Boone Pickens Stadium",
+    "city": "Stillwater, Oklahoma",
+    "use": [
+      "American football"
+    ],
+    "team": "Oklahoma State Cowboys football"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "60,044",
+    "name": "Est\u00e1dio do Arruda",
+    "city": "Recife",
+    "use": [
+      "Association football"
+    ],
+    "team": "Santa Cruz Futebol Clube"
+  },
+  {
+    "cauntry": "Indonesia",
+    "capacity": "60,000",
+    "name": "Gelora Bung Tomo Stadium",
+    "city": "Surabaya",
+    "use": [
+      "Association football"
+    ],
+    "team": "Persebaya Surabaya"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "60,000",
+    "name": "Jawaharlal Nehru Stadium, Delhi",
+    "city": "Delhi",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "India national football team"
+  },
+  {
+    "cauntry": "Saudi Arabia",
+    "capacity": "60,000",
+    "name": "King Abdullah Sports City",
+    "city": "Jeddah",
+    "use": [
+      "Association football"
+    ],
+    "team": "Saudi national football team"
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "60,000",
+    "name": "Estadio Libertadores de Am\u00e9rica",
+    "city": "Avellaneda",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club Atl\u00e9tico Independiente"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "60,000",
+    "name": "Jawaharlal Nehru Stadium, Chennai",
+    "city": "Chennai",
+    "use": [
+      "Association football"
+    ],
+    "team": "India national football team"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "60,000",
+    "name": "Dr. Bhupen Hazarika Cricket Stadium",
+    "city": "Guwahati",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Assam Cricket Association"
+  },
+  {
+    "cauntry": "Peru",
+    "capacity": "60,000",
+    "name": "Estadio Monumental Virgen de Chapi",
+    "city": "Arequipa",
+    "use": [
+      "Association football"
+    ],
+    "team": "FBC Melgar"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "60,000",
+    "name": "Mountaineer Field at Milan Puskar Stadium",
+    "city": "Morgantown, West Virginia",
+    "use": [
+      "American football"
+    ],
+    "team": "West Virginia Mountaineers football"
+  },
+  {
+    "cauntry": "Zambia",
+    "capacity": "60,000",
+    "name": "National Heroes Stadium",
+    "city": "Lusaka",
+    "use": [
+      "Association football"
+    ],
+    "team": "Zambia national football team"
+  },
+  {
+    "cauntry": "Nigeria",
+    "capacity": "60,000",
+    "name": "Abuja Stadium",
+    "city": "Abuja",
+    "use": [
+      "Association football"
+    ],
+    "team": "Nigeria national football team"
+  },
+  {
+    "cauntry": "Pakistan",
+    "capacity": "60,000",
+    "name": "Gaddafi Stadium",
+    "city": "Lahore",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Pakistan national cricket team"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "56,000",
+    "name": "DY Patil Stadium",
+    "city": "Navi Mumbai",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Mumbai Indians"
+  },
+  {
+    "cauntry": "Tanzania",
+    "capacity": "60,000",
+    "name": "Lake Tanganyika Stadium",
+    "city": "Kigoma",
+    "use": [
+      "Association football"
+    ],
+    "team": "Reli FC*"
+  },
+  {
+    "cauntry": "Tanzania",
+    "capacity": "60,000",
+    "name": "Benjamin Mkapa National Stadium",
+    "city": "Dar es Salaam",
+    "use": [
+      "Association football"
+    ],
+    "team": "Tanzania national football team"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "60,000",
+    "name": "Shenyang Olympic Sports Centre Stadium",
+    "city": "Shenyang",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Senegal",
+    "capacity": "60,000",
+    "name": "Stade Leopold Senghor",
+    "city": "Dakar",
+    "use": [
+      "Association football"
+    ],
+    "team": "Senegal national football team"
+  },
+  {
+    "cauntry": "Kenya",
+    "capacity": "60,000",
+    "name": "Moi International Sports Centre",
+    "city": "Nairobi",
+    "use": [
+      "Association football"
+    ],
+    "team": "Kenya national football team"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "60,000",
+    "name": "Nanjing Olympic Sports Center",
+    "city": "Nanjing",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Jiangsu Sainty F.C."
+  },
+  {
+    "cauntry": "Zimbabwe",
+    "capacity": "60,000",
+    "name": "National Sports Stadium (Zimbabwe)",
+    "city": "Harare",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Zimbabwe national football team"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "60,000",
+    "name": "Odi Stadium",
+    "city": "Mabopane",
+    "use": [
+      "Association football"
+    ],
+    "team": "Garankuwa United"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "60,000",
+    "name": "Tianhe Stadium",
+    "city": "Guangzhou",
+    "use": [
+      "Association football"
+    ],
+    "team": "Guangzhou Evergrande F.C."
+  },
+  {
+    "cauntry": "China",
+    "capacity": "60,000",
+    "name": "Tianjin Olympic Centre Stadium",
+    "city": "Tianjin",
+    "use": [
+      "Association football"
+    ],
+    "team": "Tianjin Teda F.C."
+  },
+  {
+    "cauntry": "China",
+    "capacity": "60,000",
+    "name": "Wuhan Sports Center Stadium",
+    "city": "Wuhan",
+    "use": [
+      "Association football"
+    ],
+    "team": "Wuhan Zall F.C."
+  },
+  {
+    "cauntry": "China",
+    "capacity": "60,000",
+    "name": "Hohhot City Stadium",
+    "city": "Hohhot",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "60,000",
+    "name": "Jinan Olympic Sports Center Stadium",
+    "city": "Jinan",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Shandong Luneng Taishan F.C."
+  },
+  {
+    "cauntry": "China",
+    "capacity": "60,000",
+    "name": "Hefei Olympic Sports Center Stadium",
+    "city": "Hefei",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "60,000",
+    "name": "Harbin Sports City Center Stadium",
+    "city": "Harbin",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "60,000",
+    "name": "Guangxi Sports Center",
+    "city": "Nanning",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "59,308",
+    "name": "Liberty Bowl Memorial Stadium",
+    "city": "Memphis, Tennessee",
+    "use": [
+      "American football"
+    ],
+    "team": "Memphis Tigers football"
+  },
+  {
+    "cauntry": "Ecuador",
+    "capacity": "59,283",
+    "name": "Estadio Monumental Isidro Romero Carbo",
+    "city": "Guayaquil",
+    "use": [
+      "Association football"
+    ],
+    "team": "Barcelona Sporting Club"
+  },
+  {
+    "cauntry": "France",
+    "capacity": "59,186",
+    "name": "Parc Olympique Lyonnais",
+    "city": "D\u00e9cines",
+    "use": [
+      "Association football"
+    ],
+    "team": "Olympique Lyonnais"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "58,680",
+    "name": "Chongqing Olympic Sports Center",
+    "city": "Chongqing",
+    "use": [
+      "Association football"
+    ],
+    "team": "Chongqing F.C."
+  },
+  {
+    "cauntry": "Italy",
+    "capacity": "58,248",
+    "name": "Stadio San Nicola",
+    "city": "Bari",
+    "use": [
+      "Association football"
+    ],
+    "team": "A.S. Bari"
+  },
+  {
+    "cauntry": "Poland",
+    "capacity": "58,145",
+    "name": "National Stadium, Warsaw",
+    "city": "Warsaw",
+    "use": [
+      "Association football",
+      "American football"
+    ],
+    "team": "Poland national football team"
+  },
+  {
+    "cauntry": "Turkey",
+    "capacity": "51,295",
+    "name": "\u0130zmir Atat\u00fcrk Stadyumu",
+    "city": "Izmir",
+    "use": [
+      "Association football"
+    ],
+    "team": "Altay S.K."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "57,803",
+    "name": "Arizona Stadium",
+    "city": "Tucson, Arizona",
+    "use": [
+      "American football"
+    ],
+    "team": "Arizona Wildcats football"
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "57,619",
+    "name": "Ol\u00edmpico Sevilla",
+    "city": "Seville",
+    "use": [
+      "Association football"
+    ],
+    "team": "Spain national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "57,583",
+    "name": "Carter\u2013Finley Stadium",
+    "city": "Raleigh, North Carolina",
+    "use": [
+      "American football"
+    ],
+    "team": "NC State Wolfpack football"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "57,363",
+    "name": "Olympic Stadium (Tokyo)",
+    "city": "Tokyo",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Japan national football team"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "57,030",
+    "name": "Imtech-Arena",
+    "city": "Hamburg",
+    "use": [
+      "Association football"
+    ],
+    "team": "Hamburger SV"
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "57,000",
+    "name": "Estadio Mario Alberto Kempes",
+    "city": "C\u00f3rdoba",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Mexico",
+    "capacity": "56,713",
+    "name": "Estadio Jalisco",
+    "city": "Guadalajara",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club Atlas"
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "56,500",
+    "name": "Estadio Benito Villamar\u00edn",
+    "city": "Seville",
+    "use": [
+      "Association football"
+    ],
+    "team": "Real Betis"
+  },
+  {
+    "cauntry": "Australia",
+    "capacity": "56,347",
+    "name": "Docklands Stadium",
+    "city": "Melbourne",
+    "use": [
+      "Australian rules football",
+      "cricket",
+      "association footbal"
+    ],
+    "team": "Western Bulldogs"
+  },
+  {
+    "cauntry": "Canada",
+    "capacity": "56,302",
+    "name": "Commonwealth Stadium (Edmonton)",
+    "city": "Edmonton",
+    "use": [
+      "Canadian football",
+      "association football",
+      "rugby union",
+      "athletics"
+    ],
+    "team": "Edmonton Eskimos"
+  },
+  {
+    "cauntry": "Canada",
+    "capacity": "56,040",
+    "name": "Olympic Stadium (Montreal)",
+    "city": "Montreal",
+    "use": [
+      "Canadian football",
+      "baseball",
+      "association footbal"
+    ],
+    "team": "Montreal Alouettes"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "56,000",
+    "name": "Est\u00e1dio Beira-Rio",
+    "city": "Porto Alegre",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sport Club Internacional"
+  },
+  {
+    "cauntry": "Hungary",
+    "capacity": "56,000",
+    "name": "Stadium Pusk\u00e1s Ferenc",
+    "city": "Budapest",
+    "use": [
+      "Association football"
+    ],
+    "team": "Hungary national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "56,000",
+    "name": "Dodger Stadium",
+    "city": "Los Angeles",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "56,000",
+    "name": "Papa John's Cardinal Stadium",
+    "city": "Louisville, Kentucky",
+    "use": [
+      "American football"
+    ],
+    "team": "Louisville Cardinals football"
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "55,926",
+    "name": "Estadi Ol\u00edmpic Llu\u00eds Companys",
+    "city": "Barcelona",
+    "use": [
+      "Athletics"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Romania",
+    "capacity": "55,634",
+    "name": "Arena Na\u021bional\u0103",
+    "city": "Bucharest",
+    "use": [
+      "Association football"
+    ],
+    "team": "Romania national football team"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "55,575",
+    "name": "Municipal Corporation Stadium, Kozhikode",
+    "city": "Kozhikode",
+    "use": [
+      "Association football",
+      "cricket"
+    ],
+    "team": "Viva Kerala"
+  },
+  {
+    "cauntry": "Serbia",
+    "capacity": "55,538",
+    "name": "Stadion Crvena Zvezda",
+    "city": "Belgrade",
+    "use": [
+      "Association football"
+    ],
+    "team": "Red Star Belgrade"
+  },
+  {
+    "cauntry": "Ecuador",
+    "capacity": "55,400",
+    "name": "Estadio La Casa Blanca",
+    "city": "Quito",
+    "use": [
+      "Association football"
+    ],
+    "team": "Liga Deportiva Universitaria"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "55,097",
+    "name": "Etihad Stadium (Manchester)",
+    "city": "Manchester",
+    "use": [
+      "Association football"
+    ],
+    "team": "Manchester City F.C."
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "55,005",
+    "name": "Vicente Calder\u00f3n Stadium",
+    "city": "Madrid",
+    "use": [
+      "Association football"
+    ],
+    "team": "Atl\u00e9tico Madrid"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "55,000",
+    "name": "Trivandrum International Stadium",
+    "city": "Thiruvananthapuram",
+    "use": [
+      "Cricket"
+    ],
+    "team": "India national cricket team"
+  },
+  {
+    "cauntry": "Singapore",
+    "capacity": "55,000",
+    "name": "New Singapore National Stadium",
+    "city": "Singapore",
+    "use": [
+      "Association football",
+      "Rugby",
+      "Cricket",
+      "athletics"
+    ],
+    "team": "Singapore national football team"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "55,000",
+    "name": "Rajiv Gandhi International Cricket Stadium",
+    "city": "Hyderabad",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Hyderabad cricket team"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "55,000",
+    "name": "Cape Town Stadium",
+    "city": "Cape Town",
+    "use": [
+      "Association football"
+    ],
+    "team": "Ajax Cape Town"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "55,000",
+    "name": "Bobby Dodd Stadium",
+    "city": "Atlanta",
+    "use": [
+      "American football"
+    ],
+    "team": "Georgia Tech Yellow Jackets football"
+  },
+  {
+    "cauntry": "Cuba",
+    "capacity": "55,000",
+    "name": "Estadio Latinoamericano",
+    "city": "Havana",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Industriales"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "55,000",
+    "name": "Helong Stadium",
+    "city": "Changsha",
+    "use": [
+      "Association football"
+    ],
+    "team": "Hunan Billows F.C."
+  },
+  {
+    "cauntry": "India",
+    "capacity": "55,000",
+    "name": "Feroz Shah Kotla Ground",
+    "city": "Delhi",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Delhi cricket team"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "55,000",
+    "name": "Sardar Patel Stadium",
+    "city": "Ahmedabad",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Gujarat cricket team"
+  },
+  {
+    "cauntry": "Ireland",
+    "capacity": "55,000",
+    "name": "Semple Stadium",
+    "city": "Thurles",
+    "use": [
+      "Hurling",
+      "Gaelic football"
+    ],
+    "team": "Tipperary GAA"
+  },
+  {
+    "cauntry": "Taiwan",
+    "capacity": "55,000",
+    "name": "World Games Stadium",
+    "city": "Kaohsiung",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "India",
+    "capacity": "55,000",
+    "name": "Pune International Cricket Centre",
+    "city": "Pune",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Maharashtra Cricket Association"
+  },
+  {
+    "cauntry": "Bulgaria",
+    "capacity": "55,000",
+    "name": "Plovdiv Stadium",
+    "city": "Plovdiv",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "junior football teams"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "54,600",
+    "name": "Esprit Arena",
+    "city": "D\u00fcsseldorf",
+    "use": [
+      "Association football"
+    ],
+    "team": "Fortuna D\u00fcsseldorf"
+  },
+  {
+    "cauntry": "Georgia",
+    "capacity": "54,549",
+    "name": "Boris Paichadze Stadium",
+    "city": "Tbilisi",
+    "use": [
+      "Association football",
+      "rugby union"
+    ],
+    "team": "FC Dinamo Tbilisi"
+  },
+  {
+    "cauntry": "Poland",
+    "capacity": "54,477",
+    "name": "Silesian Stadium",
+    "city": "Chorz\u00f3w",
+    "use": [
+      "Association football",
+      "speedway",
+      "athletic"
+    ],
+    "team": "Poland national football team"
+  },
+  {
+    "cauntry": "Sweden",
+    "capacity": "54,329",
+    "name": "Friends Arena",
+    "city": "Solna",
+    "use": [
+      "Association football"
+    ],
+    "team": "AIK"
+  },
+  {
+    "cauntry": "Canada",
+    "capacity": "54,320",
+    "name": "BC Place",
+    "city": "Vancouver",
+    "use": [
+      "Canadian football",
+      "association football"
+    ],
+    "team": "BC Lions"
+  },
+  {
+    "cauntry": "Armenia",
+    "capacity": "54,208",
+    "name": "Hrazdan Stadium",
+    "city": "Yerevan",
+    "use": [
+      "Association football"
+    ],
+    "team": "Armenia national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "54,120",
+    "name": "War Memorial Stadium (Arkansas)",
+    "city": "Little Rock, Arkansas",
+    "use": [
+      "American football"
+    ],
+    "team": "Arkansas Razorbacks football"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "54,074",
+    "name": "Anfield",
+    "city": "Liverpool",
+    "use": [
+      "Association football"
+    ],
+    "team": "Liverpool F.C."
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "54,067",
+    "name": "Borussia-Park",
+    "city": "M\u00f6nchengladbach",
+    "use": [
+      "Association football"
+    ],
+    "team": "Borussia M\u00f6nchengladbach"
+  },
+  {
+    "cauntry": "Canada",
+    "capacity": "54,000",
+    "name": "Rogers Centre",
+    "city": "Toronto",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "54,000",
+    "name": "Moses Mabhida Stadium",
+    "city": "Durban",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "54,000",
+    "name": "Autzen Stadium",
+    "city": "Eugene, Oregon",
+    "use": [
+      "American football"
+    ],
+    "team": "Oregon Ducks football"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "53,864",
+    "name": "Busan Asiad Stadium",
+    "city": "Busan",
+    "use": [
+      "Association football"
+    ],
+    "team": "Busan IPark"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "53,750",
+    "name": "Folsom Field",
+    "city": "Boulder, Colorado",
+    "use": [
+      "American football"
+    ],
+    "team": "Colorado Buffaloes football"
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "53,600",
+    "name": "Estadio Ciudad de La Plata",
+    "city": "La Plata",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club de Gimnasia y Esgrima La Plata"
+  },
+  {
+    "cauntry": "Australia",
+    "capacity": "53,583",
+    "name": "Adelaide Oval",
+    "city": "Adelaide",
+    "use": [
+      "Cricket",
+      "Australian rules football"
+    ],
+    "team": "Australia national cricket team"
+  },
+  {
+    "cauntry": "Netherlands",
+    "capacity": "53,502",
+    "name": "Amsterdam Arena",
+    "city": "Amsterdam",
+    "use": [
+      "Association football"
+    ],
+    "team": "Ajax Amsterdam"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "53,350",
+    "name": "Est\u00e1dio Parque do Sabi\u00e1",
+    "city": "Uberl\u00e2ndia",
+    "use": [
+      "Association football"
+    ],
+    "team": "Uberl\u00e2ndia Esporte Clube"
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "53,332",
+    "name": "San Mam\u00e9s Stadium (2013)",
+    "city": "Bilbao",
+    "use": [
+      "Association football"
+    ],
+    "team": "Athletic Bilbao"
+  },
+  {
+    "cauntry": "Syria",
+    "capacity": "53,200",
+    "name": "Aleppo International Stadium",
+    "city": "Aleppo",
+    "use": [
+      "Association football"
+    ],
+    "team": "Al-Ittihad"
+  },
+  {
+    "cauntry": "Austria",
+    "capacity": "53,008",
+    "name": "Ernst Happel Stadion",
+    "city": "Vienna",
+    "use": [
+      "Association football"
+    ],
+    "team": "Austria national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "52,692",
+    "name": "Memorial Stadium, Bloomington",
+    "city": "Bloomington, Indiana",
+    "use": [
+      "American football"
+    ],
+    "team": "Indiana Hoosiers football"
+  },
+  {
+    "cauntry": "Turkey",
+    "capacity": "52,652",
+    "name": "T\u00fcrk Telekom Stadium",
+    "city": "Istanbul",
+    "use": [
+      "Association football"
+    ],
+    "team": "Galatasaray S.K."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "52,593",
+    "name": "Franklin Field",
+    "city": "Philadelphia",
+    "use": [
+      "American football",
+      "athletics"
+    ],
+    "team": "Penn Quakers football"
+  },
+  {
+    "cauntry": "Turkey",
+    "capacity": "52,530",
+    "name": "\u015e\u00fckr\u00fc Saraco\u011flu Stadium",
+    "city": "Istanbul",
+    "use": [
+      "Association football"
+    ],
+    "team": "Fenerbah\u00e7e S.K."
+  },
+  {
+    "cauntry": "Ukraine",
+    "capacity": "52,518",
+    "name": "Donbass Arena",
+    "city": "Donetsk",
+    "use": [
+      "Association football"
+    ],
+    "team": "Shaktar Donetsk"
+  },
+  {
+    "cauntry": "Australia",
+    "capacity": "52,500",
+    "name": "Lang Park",
+    "city": "Brisbane",
+    "use": [
+      "Rugby league",
+      "rugby union",
+      "association footbal"
+    ],
+    "team": "Queensland Maroons"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "52,480",
+    "name": "Falcon Stadium",
+    "city": "Colorado Springs, Colorado",
+    "use": [
+      "American football"
+    ],
+    "team": "Air Force Falcons football"
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "52,469",
+    "name": "Estadio Mestalla",
+    "city": "Valencia",
+    "use": [
+      "Association football"
+    ],
+    "team": "Valencia CF"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "52,454",
+    "name": "High Point Solutions Stadium",
+    "city": "Piscataway, New Jersey",
+    "use": [
+      "American football",
+      "association football",
+      "lacrosse"
+    ],
+    "team": "Rutgers Scarlet Knights football"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "52,387",
+    "name": "St James' Park",
+    "city": "Newcastle upon Tyne",
+    "use": [
+      "Association football"
+    ],
+    "team": "Newcastle United F.C."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "52,325",
+    "name": "Yankee Stadium",
+    "city": "New York City",
+    "use": [
+      "Baseball",
+      "association football"
+    ],
+    "team": "New York Yankees"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "51,500",
+    "name": "Commerzbank-Arena",
+    "city": "Frankfurt",
+    "use": [
+      "Association football"
+    ],
+    "team": "Eintracht Frankfurt"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "52,200",
+    "name": "Bill Snyder Family Football Stadium",
+    "city": "Manhattan, Kansas",
+    "use": [
+      "American football"
+    ],
+    "team": "Kansas State Wildcats football"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "52,080",
+    "name": "Huainan Sports Stadium",
+    "city": "Huainan",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "52,000",
+    "name": "Kings Park Stadium",
+    "city": "Durban",
+    "use": [
+      "Rugby union",
+      "association football"
+    ],
+    "team": "Sharks"
+  },
+  {
+    "cauntry": "Portugal",
+    "capacity": "52,000",
+    "name": "Est\u00e1dio do Drag\u00e3o",
+    "city": "Porto",
+    "use": [
+      "Association football"
+    ],
+    "team": "FC Porto"
+  },
+  {
+    "cauntry": "Morocco",
+    "capacity": "52,000",
+    "name": "Stade Moulay Abdellah",
+    "city": "Rabat",
+    "use": [
+      "Association football"
+    ],
+    "team": "FAR Rabat"
+  },
+  {
+    "cauntry": "Venezuela",
+    "capacity": "52,000",
+    "name": "Estadio Monumental de Matur\u00edn",
+    "city": "Matur\u00edn",
+    "use": [
+      "Association football"
+    ],
+    "team": "Monagas Sport Club"
+  },
+  {
+    "cauntry": "Cameroon",
+    "capacity": "52,000",
+    "name": "Stade Omnisports",
+    "city": "Yaound\u00e9",
+    "use": [
+      "Association football"
+    ],
+    "team": "Tonnerre Yaound\u00e9"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "52,000",
+    "name": "Guiyang Olympic Sports Center",
+    "city": "Guiyang",
+    "use": [
+      "Association football"
+    ],
+    "team": "Guizhou Renhe F.C."
+  },
+  {
+    "cauntry": "Mexico",
+    "capacity": "51,000",
+    "name": "Estadio BBVA Bancomer",
+    "city": "Monterrey",
+    "use": [
+      "Association football"
+    ],
+    "team": "C.F. Monterrey"
+  },
+  {
+    "cauntry": "Philippines",
+    "capacity": "51,898",
+    "name": "Philippine Arena",
+    "city": "Ciudad de Victoria",
+    "use": [
+      "Basketball"
+    ],
+    "team": "None"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "51,866",
+    "name": "Hampden Park",
+    "city": "Glasgow",
+    "use": [
+      "Association football"
+    ],
+    "team": "Scotland national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "51,802",
+    "name": "Maryland Stadium",
+    "city": "College Park, Maryland",
+    "use": [
+      "American football"
+    ],
+    "team": "Maryland Terrapins"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "51,762",
+    "name": "Loftus Versfeld Stadium",
+    "city": "Pretoria",
+    "use": [
+      "Rugby union",
+      "cricket",
+      "association footbal"
+    ],
+    "team": "Bulls"
+  },
+  {
+    "cauntry": "Ireland",
+    "capacity": "51,700",
+    "name": "Aviva Stadium",
+    "city": "Dublin",
+    "use": [
+      "Rugby union",
+      "association football"
+    ],
+    "team": "Ireland national rugby union team"
+  },
+  {
+    "cauntry": "Netherlands",
+    "capacity": "51,577",
+    "name": "De Kuip",
+    "city": "Rotterdam",
+    "use": [
+      "Association football"
+    ],
+    "team": "Feyenoord"
+  },
+  {
+    "cauntry": "Ghana",
+    "capacity": "51,500",
+    "name": "Kumasi Sports Stadium",
+    "city": "Kumasi",
+    "use": [
+      "Association football"
+    ],
+    "team": "Asante Kotoko"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "51,500",
+    "name": "Sun Bowl Stadium",
+    "city": "El Paso, Texas",
+    "use": [
+      "American football"
+    ],
+    "team": "UTEP Miners"
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "51,389",
+    "name": "Estadio Juan Domingo Per\u00f3n",
+    "city": "Avellaneda",
+    "use": [
+      "Association football"
+    ],
+    "team": "Racing Club de Avellaneda"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "51,349",
+    "name": "Shizuoka Stadium",
+    "city": "Fukuroi",
+    "use": [
+      "Association football"
+    ],
+    "team": "J\u00fabilo Iwata"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "51,139",
+    "name": "Huanglong Stadium",
+    "city": "Hangzhou",
+    "use": [
+      "Association football"
+    ],
+    "team": "Hangzhou Greentown F.C."
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "51,100",
+    "name": "Newlands Stadium",
+    "city": "Cape Town",
+    "use": [
+      "Rugby union",
+      "association football"
+    ],
+    "team": "Stormers"
+  },
+  {
+    "cauntry": "Iran",
+    "capacity": "51,000",
+    "name": "Ghadir Stadium",
+    "city": "Ahvaz",
+    "use": [
+      "Association football"
+    ],
+    "team": "Foolad F.C."
+  },
+  {
+    "cauntry": "China",
+    "capacity": "51,000",
+    "name": "Shaanxi Province Stadium",
+    "city": "Xi'an",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "50,832",
+    "name": "Independence Stadium (United States)",
+    "city": "Shreveport, Louisiana",
+    "use": [
+      "American football"
+    ],
+    "team": "Independence Bowl"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "50,817",
+    "name": "Ibrox Stadium",
+    "city": "Glasgow",
+    "use": [
+      "Association Football"
+    ],
+    "team": "Rangers F.C."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "50,805",
+    "name": "TCF Bank Stadium",
+    "city": "Minneapolis",
+    "use": [
+      "American football"
+    ],
+    "team": "Minnesota Golden Gophers football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "50,500",
+    "name": "Dowdy\u2013Ficklen Stadium",
+    "city": "Greenville, North Carolina",
+    "use": [
+      "American football"
+    ],
+    "team": "East Carolina University Pirates football"
+  },
+  {
+    "cauntry": "Portugal",
+    "capacity": "50,466",
+    "name": "Est\u00e1dio Jos\u00e9 Alvalade",
+    "city": "Lisbon",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sporting Clube de Portugal"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "50,445",
+    "name": "Coors Field",
+    "city": "Denver",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Colorado Rockies"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "50,256",
+    "name": "Incheon Munhak Stadium",
+    "city": "Incheon",
+    "use": [
+      "Association football"
+    ],
+    "team": "Incheon Korail"
+  },
+  {
+    "cauntry": "France",
+    "capacity": "50,186",
+    "name": "Stade Pierre-Mauroy",
+    "city": "Villeneuve d'Ascq",
+    "use": [
+      "Association football"
+    ],
+    "team": "Lille OSC"
+  },
+  {
+    "cauntry": "Belgium",
+    "capacity": "50,122",
+    "name": "King Baudouin Stadium",
+    "city": "Brussels",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Belgium national football team"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "50,100",
+    "name": "Ajinomoto Stadium",
+    "city": "Chofu",
+    "use": [
+      "Association football"
+    ],
+    "team": "F.C. Tokyo"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "50,071",
+    "name": "University of Kansas Memorial Stadium",
+    "city": "Lawrence, Kansas",
+    "use": [
+      "American football"
+    ],
+    "team": "Kansas Jayhawks football"
+  },
+  {
+    "cauntry": "Pakistan",
+    "capacity": "50,000",
+    "name": "Shaheed Mohtarama Benazir Bhutto International Cricket Stadium",
+    "city": "Garhi Khuda Bakhsh",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Pakistan national cricket team"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "50,000",
+    "name": "Arena Fonte Nova",
+    "city": "Salvador",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Algeria",
+    "capacity": "50,000",
+    "name": "Stade 19 Mai 1956",
+    "city": "Annaba",
+    "use": [
+      "Association football"
+    ],
+    "team": "USM Annaba"
+  },
+  {
+    "cauntry": "Czech Republic",
+    "capacity": "50,000",
+    "name": "Za Lu\u017e\u00e1nkami",
+    "city": "Brno",
+    "use": [
+      "Association football"
+    ],
+    "team": "Brno"
+  },
+  {
+    "cauntry": "North Korea",
+    "capacity": "50,000",
+    "name": "Kim Il-sung Stadium",
+    "city": "Pyongyang",
+    "use": [
+      "Association football"
+    ],
+    "team": "Pyongyang City Sports Group"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "50,000",
+    "name": "Aloha Stadium",
+    "city": "Honolulu",
+    "use": [
+      "American football",
+      "baseball"
+    ],
+    "team": "Hawai"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "50,000",
+    "name": "Charles Mopeli Stadium",
+    "city": "Phuthaditjhaba",
+    "use": [
+      "Association football"
+    ],
+    "team": "Free State Stars"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "50,000",
+    "name": "Dowdy\u2013Ficklen Stadium",
+    "city": "Greenville, North Carolina",
+    "use": [
+      "American football"
+    ],
+    "team": "East Carolina Pirates football"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "49,968",
+    "name": "RheinEnergieStadion",
+    "city": "Cologne",
+    "use": [
+      "Association football"
+    ],
+    "team": "1. FC K\u00f6ln"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "50,000",
+    "name": "Hiroshima Big Arch",
+    "city": "Hiroshima",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sanfrecce Hiroshima"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "50,000",
+    "name": "Jilin People's Stadium",
+    "city": "Jilin City",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "Qatar",
+    "capacity": "50,000",
+    "name": "Khalifa International Stadium",
+    "city": "Doha",
+    "use": [
+      "Association football"
+    ],
+    "team": "Qatar national football team"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "50,000",
+    "name": "Nagai Stadium",
+    "city": "Osaka",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Cerezo Osaka"
+  },
+  {
+    "cauntry": "Cambodia",
+    "capacity": "50,000",
+    "name": "Phnom Pehn National Olympic Stadium",
+    "city": "Phnom Penh",
+    "use": [
+      "Association football"
+    ],
+    "team": "Khemara"
+  },
+  {
+    "cauntry": "Mali",
+    "capacity": "50,000",
+    "name": "Stade 26 mars",
+    "city": "Bamako",
+    "use": [
+      "Association football"
+    ],
+    "team": "Stade Malien"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "50,000",
+    "name": "Stanford Stadium",
+    "city": "Stanford, California",
+    "use": [
+      "American football"
+    ],
+    "team": "Stanford Cardinal football"
+  },
+  {
+    "cauntry": "Malaysia",
+    "capacity": "50,000",
+    "name": "Sultan Mizan Zainal Abidin Stadium",
+    "city": "Kuala Terengganu",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Terengganu FA"
+  },
+  {
+    "cauntry": "Iran",
+    "capacity": "50,000",
+    "name": "Shiraz Stadium",
+    "city": "Shiraz",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "China",
+    "capacity": "50,000",
+    "name": "Henan Provincial Stadium",
+    "city": "Zhengzhou",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "50,000",
+    "name": "Xinjiang Sports Centre",
+    "city": "\u00dcr\u00fcmqi",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "50,000",
+    "name": "Yanji People's Stadium",
+    "city": "Yanji",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "Angola",
+    "capacity": "50,000",
+    "name": "Est\u00e1dio 11 de Novembro",
+    "city": "Luanda",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "50,000",
+    "name": "Red Bull Arena (Leipzig)",
+    "city": "Leipzig",
+    "use": [
+      "Association football"
+    ],
+    "team": "RB Leipzig"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "50,000",
+    "name": "Guangzhou University City Stadium",
+    "city": "Guangzhou",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "50,000",
+    "name": "Jiangxi Olympic Sports Center",
+    "city": "Nanchang",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "50,000",
+    "name": "Shaheed Veer Narayan Singh International Cricket Stadium",
+    "city": "Raipur",
+    "use": [
+      "Cricket"
+    ],
+    "team": "local teams"
+  },
+  {
+    "cauntry": "Ireland",
+    "capacity": "49,866",
+    "name": "Gaelic Grounds",
+    "city": "Limerick",
+    "use": [
+      "Hurling",
+      "Gaelic football"
+    ],
+    "team": "Limerick GAA"
+  },
+  {
+    "cauntry": "Mexico",
+    "capacity": "49,850",
+    "name": "Estadio Omnilife",
+    "city": "Zapopan",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club Deportivo Guadalajara"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "49,780",
+    "name": "Fritz-Walter-Stadion",
+    "city": "Kaiserslautern",
+    "use": [
+      "Association football"
+    ],
+    "team": "1. FC Kaiserslautern"
+  },
+  {
+    "cauntry": "Thailand",
+    "capacity": "49,722",
+    "name": "Rajamangala Stadium",
+    "city": "Bangkok",
+    "use": [
+      "Association football"
+    ],
+    "team": "Thailand national football team"
+  },
+  {
+    "cauntry": "Australia",
+    "capacity": "49,700",
+    "name": "Sydney Cricket Ground",
+    "city": "Sydney",
+    "use": [
+      "Cricket",
+      "Australian rules football"
+    ],
+    "team": "Australia national cricket team"
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "49,540",
+    "name": "Estadio Jos\u00e9 Amalfitani",
+    "city": "Buenos Aires",
+    "use": [
+      "Association football",
+      "rugby union"
+    ],
+    "team": "Club Atl\u00e9tico V\u00e9lez S\u00e1rsfield"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "49,256",
+    "name": "Ryan Field (stadium)",
+    "city": "Evanston, Illinois",
+    "use": [
+      "American football"
+    ],
+    "team": "Northwestern Wildcats football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "49,250",
+    "name": "Carrier Dome",
+    "city": "Syracuse, New York",
+    "use": [
+      "American football",
+      "basketball",
+      "lacrosse"
+    ],
+    "team": "Syracuse Orange football"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "49,133",
+    "name": "Miyagi Stadium",
+    "city": "Rifu",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Vegalta Sendai"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "49,115",
+    "name": "Rangers Ballpark in Arlington",
+    "city": "Arlington, Texas",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Texas Rangers"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "49,033",
+    "name": "Chase Field",
+    "city": "Phoenix, Arizona",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "49,000",
+    "name": "AWD-Arena",
+    "city": "Hanover",
+    "use": [
+      "Association football"
+    ],
+    "team": "Hannover 96"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "49,000",
+    "name": "Stadium of Light",
+    "city": "Sunderland",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sunderland A.F.C."
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "49,000",
+    "name": "Estadio Alberto J. Armando",
+    "city": "Buenos Aires",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club Atl\u00e9tico Boca Juniors"
+  },
+  {
+    "cauntry": "Australia",
+    "capacity": "49,000",
+    "name": "Queensland Sport and Athletics Centre",
+    "city": "Brisbane",
+    "use": [
+      "Rugby league"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "48,876",
+    "name": "Oriole Park at Camden Yards",
+    "city": "Baltimore",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Baltimore Orioles"
+  },
+  {
+    "cauntry": "Pakistan",
+    "capacity": "48,800",
+    "name": "Jinnah Sports Stadium",
+    "city": "Islamabad",
+    "use": [
+      "Association football",
+      "cricket",
+      "hockey"
+    ],
+    "team": "Pakistan national football team"
+  },
+  {
+    "cauntry": "France",
+    "capacity": "48,712",
+    "name": "Parc des Princes",
+    "city": "Paris",
+    "use": [
+      "Association football"
+    ],
+    "team": "Paris Saint-Germain"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "48,548",
+    "name": "Frankenstadion",
+    "city": "Nuremberg",
+    "use": [
+      "Association football"
+    ],
+    "team": "1. FC N\u00fcrnberg"
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "48,314",
+    "name": "Estadio Tom\u00e1s Adolfo Duc\u00f3",
+    "city": "Buenos Aires",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club Atl\u00e9tico Hurac\u00e1n"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "48,116",
+    "name": "Safeco Field",
+    "city": "Seattle",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Seattle Mariners"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "48,000",
+    "name": "Nelson Mandela Bay Stadium",
+    "city": "Port Elizabeth",
+    "use": [
+      "Rugby union",
+      "association football"
+    ],
+    "team": "Eastern Province Kings"
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "48,000",
+    "name": "Estadio Malvinas Argentinas",
+    "city": "Mendoza",
+    "use": [
+      "Association football"
+    ],
+    "team": "Ciudad de Mendoza"
+  },
+  {
+    "cauntry": "Lebanon",
+    "capacity": "47,799",
+    "name": "Camille Chamoun Sports City Stadium",
+    "city": "Beirut",
+    "use": [
+      "Association football"
+    ],
+    "team": "Lebanon national football team"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "47,757",
+    "name": "Koshien Stadium",
+    "city": "Nishinomiya",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Hanshin Tigers"
+  },
+  {
+    "cauntry": "Russia",
+    "capacity": "47,659",
+    "name": "Fisht Olympic Stadium",
+    "city": "Sochi",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Italy",
+    "capacity": "47,290",
+    "name": "Stadio Artemio Franchi",
+    "city": "Florence",
+    "use": [
+      "Association football"
+    ],
+    "team": "ACF Fiorentina"
+  },
+  {
+    "cauntry": "Chile",
+    "capacity": "47,017",
+    "name": "Estadio Monumental David Arellano",
+    "city": "Santiago",
+    "use": [
+      "Association football"
+    ],
+    "team": "Colo-Colo"
+  },
+  {
+    "cauntry": "Chile",
+    "capacity": "47,000",
+    "name": "Estadio Nacional Julio Mart\u00ednez Pr\u00e1danos",
+    "city": "Santiago",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Chile national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "47,000",
+    "name": "Rice Stadium (Rice University)",
+    "city": "Houston",
+    "use": [
+      "American football"
+    ],
+    "team": "Rice Owls football"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "47,000",
+    "name": "Tokyo Dome",
+    "city": "Tokyo",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Yomiuri Giants"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "46,931",
+    "name": "Est\u00e1dio Ol\u00edmpico Jo\u00e3o Havelange",
+    "city": "Rio de Janeiro",
+    "use": [
+      "Association football"
+    ],
+    "team": "Botafogo"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "46,861",
+    "name": "Busch Stadium",
+    "city": "St. Louis",
+    "use": [
+      "Baseball"
+    ],
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "cauntry": "Colombia",
+    "capacity": "46,788",
+    "name": "Estadio Metropolitano Roberto Mel\u00e9ndez",
+    "city": "Barranquilla",
+    "use": [
+      "Association football"
+    ],
+    "team": "Colombia national football team"
+  },
+  {
+    "cauntry": "Colombia",
+    "capacity": "46,018",
+    "name": "Estadio El Camp\u00edn",
+    "city": "Bogot\u00e1",
+    "use": [
+      "Association football"
+    ],
+    "team": "Millonarios"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "46,000",
+    "name": "ACA-VDCA Stadium",
+    "city": "Visakhapatnam",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Andhra"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "46,000",
+    "name": "Itaipava Arena Pernambuco",
+    "city": "S\u00e3o Louren\u00e7o da Mata",
+    "use": [
+      "Association football"
+    ],
+    "team": "Clube N\u00e1utico Capibaribe"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "46,000",
+    "name": "Est\u00e1dio Ol\u00edmpico Monumental",
+    "city": "Porto Alegre",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "46,000",
+    "name": "Peter Mokaba Stadium",
+    "city": "Polokwane",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "45,954",
+    "name": "Est\u00e1dio Paulo Constantino",
+    "city": "Presidente Prudente",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "El Salvador",
+    "capacity": "45,925",
+    "name": "Estadio Cuscatl\u00e1n",
+    "city": "San Salvador",
+    "use": [
+      "Association football"
+    ],
+    "team": "Alianza F.C."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "45,674",
+    "name": "Reser Stadium",
+    "city": "Corvallis, Oregon",
+    "use": [
+      "American football"
+    ],
+    "team": "Oregon State Beavers football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "45,634",
+    "name": "Rice-Eccles Stadium",
+    "city": "Salt Lake City",
+    "use": [
+      "American football"
+    ],
+    "team": "Utah Utes football"
+  },
+  {
+    "cauntry": "Colombia",
+    "capacity": "45,625",
+    "name": "Estadio Ol\u00edmpico Pascual Guerrero",
+    "city": "Cali",
+    "use": [
+      "Association football"
+    ],
+    "team": "Am\u00e9rica de Cali"
+  },
+  {
+    "cauntry": "Peru",
+    "capacity": "45,574",
+    "name": "Estadio Nacional (Lima)",
+    "city": "Lima",
+    "use": [
+      "Association football"
+    ],
+    "team": "Peru national football team"
+  },
+  {
+    "cauntry": "Ireland",
+    "capacity": "45,500",
+    "name": "P\u00e1irc U\u00ed Chaoimh",
+    "city": "Cork",
+    "use": [
+      "Hurling",
+      "Gaelic football"
+    ],
+    "team": "Cork GAA"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "45,500",
+    "name": "Est\u00e1dio Ilha do Retiro",
+    "city": "Recife",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sport Club do Recife"
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "45,500",
+    "name": "Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n",
+    "city": "Seville",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sevilla FC"
+  },
+  {
+    "cauntry": "Australia",
+    "capacity": "45,500",
+    "name": "Sydney Football Stadium",
+    "city": "Sydney",
+    "use": [
+      "Rugby league",
+      "rugby union",
+      "association footbal"
+    ],
+    "team": "Sydney Roosters"
+  },
+  {
+    "cauntry": "Morocco",
+    "capacity": "45,480",
+    "name": "Stade Adrar",
+    "city": "Agadir",
+    "use": [
+      "Association football"
+    ],
+    "team": "Hassania Agadir"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "45,423",
+    "name": "Robert F. Kennedy Memorial Stadium",
+    "city": "Washington, D.C.",
+    "use": [
+      "Association football",
+      "American football",
+      "basebal"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Russia",
+    "capacity": "45,360",
+    "name": "Otkrytie Arena",
+    "city": "Moscow",
+    "use": [
+      "Association football"
+    ],
+    "team": "FC Spartak Moscow"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "44,206",
+    "name": "Bright House Networks Stadium",
+    "city": "Orlando, Florida",
+    "use": [
+      "American football"
+    ],
+    "team": "UCF Knights football"
+  },
+  {
+    "cauntry": "Uganda",
+    "capacity": "45,202",
+    "name": "National Stadium (Uganda)",
+    "city": "Kampala",
+    "use": [
+      "Association football"
+    ],
+    "team": "Uganda national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "45,140",
+    "name": "McLane Stadium",
+    "city": "Waco, Texas",
+    "use": [
+      "American football"
+    ],
+    "team": "Baylor Bears football"
+  },
+  {
+    "cauntry": "Russia",
+    "capacity": "45,105",
+    "name": "Kazan Arena",
+    "city": "Kazan",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "FC Rubin Kazan"
+  },
+  {
+    "cauntry": "Peru",
+    "capacity": "45,056",
+    "name": "Estadio Garcilaso",
+    "city": "Cusco",
+    "use": [
+      "Association football"
+    ],
+    "team": "Cienciano del Cuzco"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "45,050",
+    "name": "Angel Stadium of Anaheim",
+    "city": "Anaheim, California",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Los Angeles Angels of Anaheim"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "45,007",
+    "name": "Est\u00e1dio Ol\u00edmpico do Par\u00e1",
+    "city": "Bel\u00e9m",
+    "use": [
+      "Association football"
+    ],
+    "team": "Paysandu Sport Club"
+  },
+  {
+    "cauntry": "Pakistan",
+    "capacity": "45,000",
+    "name": "National Hockey Stadium, Lahore",
+    "city": "Lahore",
+    "use": [
+      "Hockey"
+    ],
+    "team": "Pakistan national field hockey team"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "45,000",
+    "name": "Arena Corinthians",
+    "city": "S\u00e3o Paulo",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sport Club Corinthians Paulista"
+  },
+  {
+    "cauntry": "Panama",
+    "capacity": "45,000",
+    "name": "Estadio Rommel Fern\u00e1ndez",
+    "city": "Panama City",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Federaci\u00f3n Paname\u0148a de F\u00fatbol"
+  },
+  {
+    "cauntry": "Bangladesh",
+    "capacity": "45,000",
+    "name": "Bangabandhu National Stadium",
+    "city": "Dhaka",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Bangladesh national football team"
+  },
+  {
+    "cauntry": "Pakistan",
+    "capacity": "45,000",
+    "name": "National Stadium",
+    "city": "Karachi",
+    "use": [
+      "Cricket"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "India",
+    "capacity": "45,000",
+    "name": "Barabati Stadium",
+    "city": "Cuttack",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Orissa Cricket Association"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "45,000",
+    "name": "Vidarbha Cricket Association Stadium",
+    "city": "Nagpur",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Vidarbha cricket team"
+  },
+  {
+    "cauntry": "Syria",
+    "capacity": "45,000",
+    "name": "Abbasiyyin Stadium",
+    "city": "Damascus",
+    "use": [
+      "Association football"
+    ],
+    "team": "Al-Jaish"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "45,000",
+    "name": "Allianz Parque",
+    "city": "S\u00e3o Paulo",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sociedade Esportiva Palmeiras"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "45,000",
+    "name": "Kobe Universiade Memorial Stadium",
+    "city": "Kobe",
+    "use": [
+      "Association football"
+    ],
+    "team": "Vissel Kobe"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "45,000",
+    "name": "Roop Singh Stadium",
+    "city": "Gwalior",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Madhya Pradesh Cricket Association"
+  },
+  {
+    "cauntry": "Mozambique",
+    "capacity": "45,000",
+    "name": "Est\u00e1dio da Machava",
+    "city": "Maputo",
+    "use": [
+      "Association football"
+    ],
+    "team": "Mozambique national football team"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "45,000",
+    "name": "Est\u00e1dio Universit\u00e1rio Pedro Pedrossian",
+    "city": "Campo Grande",
+    "use": [
+      "Association football"
+    ],
+    "team": "Universidade Federal de Mato Grosso do Sul"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "45,000",
+    "name": "Fatorda Stadium",
+    "city": "Margao",
+    "use": [
+      "Association football"
+    ],
+    "team": "Dempo SC"
+  },
+  {
+    "cauntry": "Morocco",
+    "capacity": "45,000",
+    "name": "Fez Stadium",
+    "city": "Fes",
+    "use": [
+      "Association football"
+    ],
+    "team": "Maghreb Fez"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "45,000",
+    "name": "Free State Stadium",
+    "city": "Bloemfontein",
+    "use": [
+      "Rugby union"
+    ],
+    "team": "Free State Cheetahs"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "45,000",
+    "name": "Green Park Stadium",
+    "city": "Kanpur",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Uttar Pradesh cricket team"
+  },
+  {
+    "cauntry": "Tunisia",
+    "capacity": "45,000",
+    "name": "Stade El Menzah",
+    "city": "Tunis",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club Africain"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "45,000",
+    "name": "Toyota Stadium",
+    "city": "Toyota",
+    "use": [
+      "Association football"
+    ],
+    "team": "Nagoya Grampus"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "45,000",
+    "name": "Citi Field",
+    "city": "New York City",
+    "use": [
+      "Baseball"
+    ],
+    "team": "New York Mets"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "45,000",
+    "name": "Yantai Sports Park Stadium",
+    "city": "Yantai",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "Greece",
+    "capacity": "45,000",
+    "name": "Panathenaic Stadium",
+    "city": "Athens",
+    "use": [
+      "Athletics"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Morocco",
+    "capacity": "45,000",
+    "name": "Stade de Marrakech",
+    "city": "Marrakech",
+    "use": [
+      "Association football"
+    ],
+    "team": "Kawkab Marrakech"
+  },
+  {
+    "cauntry": "Gabon",
+    "capacity": "45,000",
+    "name": "Stade Omar Bongo",
+    "city": "Libreville",
+    "use": [
+      "Association football"
+    ],
+    "team": "FC 105 Libreville"
+  },
+  {
+    "cauntry": "Nigeria",
+    "capacity": "45,000",
+    "name": "Lagos National Stadium",
+    "city": "Lagos",
+    "use": [
+      "Association football"
+    ],
+    "team": "Nigeria national football team"
+  },
+  {
+    "cauntry": "Morocco",
+    "capacity": "45,000",
+    "name": "Grand Stade de Tanger",
+    "city": "Tangier",
+    "use": [
+      "Association football"
+    ],
+    "team": "IR Tanger"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "45,000",
+    "name": "Zibo Sports Center Stadium",
+    "city": "Zibo",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "45,000",
+    "name": "Weifang Sports Center Stadium",
+    "city": "Weifang",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "45,000",
+    "name": "Orlando Stadium",
+    "city": "Johannesburg",
+    "use": [
+      "Association football"
+    ],
+    "team": "Orlando Pirates"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "45,000",
+    "name": "Wankhede Stadium",
+    "city": "Mumbai",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Mumbai cricket team"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "45,000",
+    "name": "Kanchenjunga Stadium",
+    "city": "Siliguri",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "Syria",
+    "capacity": "45,000",
+    "name": "Latakia Sports City Stadium",
+    "city": "Latakia",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "44,500",
+    "name": "Alumni Stadium",
+    "city": "Chestnut Hill, Massachusetts",
+    "use": [
+      "American football"
+    ],
+    "team": "Boston College Eagles football"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "44,500",
+    "name": "Arena Amazonia",
+    "city": "Manaus",
+    "use": [
+      "Association football"
+    ],
+    "team": "Am\u00e9rica Futebol Clube"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "44,466",
+    "name": "Ulsan Munsu Football Stadium",
+    "city": "Ulsan",
+    "use": [
+      "Association football"
+    ],
+    "team": "Ulsan Hyundai"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "44,200",
+    "name": "Est\u00e1dio Governador Alberto Tavares Silva",
+    "city": "Teresina",
+    "use": [
+      "Association football"
+    ],
+    "team": "Esporte Clube Flamengo"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "44,118",
+    "name": "Gwangju World Cup Stadium",
+    "city": "Gwangju",
+    "use": [
+      "Association football"
+    ],
+    "team": "Gwangju FC"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "44,008",
+    "name": "Amon G. Carter Stadium",
+    "city": "Fort Worth, Texas",
+    "use": [
+      "American football"
+    ],
+    "team": "TCU Horned Frogs football"
+  },
+  {
+    "cauntry": "Zambia",
+    "capacity": "44,000",
+    "name": "Levy Mwanawasa Stadium",
+    "city": "Ndola",
+    "use": [
+      "Association football"
+    ],
+    "team": "Zambia national football team"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "43,959",
+    "name": "Suwon World Cup Stadium",
+    "city": "Suwon",
+    "use": [
+      "Association football"
+    ],
+    "team": "Suwon Samsung Bluewings"
+  },
+  {
+    "cauntry": "Indonesia",
+    "capacity": "43,923",
+    "name": "Riau Main Stadium",
+    "city": "Pekanbaru",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "China",
+    "capacity": "43,700",
+    "name": "Shandong Provincial Stadium",
+    "city": "Jinan",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "Bulgaria",
+    "capacity": "43,632",
+    "name": "Vasil Levski National Stadium",
+    "city": "Sofia",
+    "use": [
+      "Association football"
+    ],
+    "team": "Bulgaria national football team"
+  },
+  {
+    "cauntry": "Poland",
+    "capacity": "43,615",
+    "name": "PGE Arena Gda\u0144sk",
+    "city": "Gda\u0144sk",
+    "use": [
+      "Association football"
+    ],
+    "team": "Lechia Gda\u0144sk"
+  },
+  {
+    "cauntry": "Australia",
+    "capacity": "43,500",
+    "name": "Subiaco Oval",
+    "city": "Perth",
+    "use": [
+      "Australian rules football",
+      "rugby union"
+    ],
+    "team": "Fremantle FC"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "43,500",
+    "name": "Citizens Bank Park",
+    "city": "Philadelphia",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "43,500",
+    "name": "Mbombela Stadium",
+    "city": "Nelspruit",
+    "use": [
+      "Association football"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "43,494",
+    "name": "El Nuevo Gas\u00f3metro",
+    "city": "Buenos Aires",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club Atl\u00e9tico San Lorenzo de Almagro"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "43,348",
+    "name": "Jeonju World Cup Stadium",
+    "city": "Jeonju",
+    "use": [
+      "Association football"
+    ],
+    "team": "Jeonbuk Hyundai Motors"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "43,345",
+    "name": "Progressive Field",
+    "city": "Cleveland",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Cleveland Indians"
+  },
+  {
+    "cauntry": "Poland",
+    "capacity": "43,269",
+    "name": "Stadion Miejski (Pozna\u0144)",
+    "city": "Pozna\u0144",
+    "use": [
+      "Association football"
+    ],
+    "team": "Lech Pozna\u0144"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "43,254",
+    "name": "\u014cita Bank Dome",
+    "city": "\u014cita",
+    "use": [
+      "Association football"
+    ],
+    "team": "\u014cita Trinita"
+  },
+  {
+    "cauntry": "Peru",
+    "capacity": "43,000",
+    "name": "Estadio Universidad San Marcos",
+    "city": "Lima",
+    "use": [
+      "Association football"
+    ],
+    "team": "Universidad San Marcos"
+  },
+  {
+    "cauntry": "Ireland",
+    "capacity": "43,000",
+    "name": "Fitzgerald Stadium",
+    "city": "Killarney",
+    "use": [
+      "Gaelic football",
+      "hurling"
+    ],
+    "team": "Kerry GAA"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "43,000",
+    "name": "Arena Pantanal",
+    "city": "Cuiab\u00e1",
+    "use": [
+      "Association football"
+    ],
+    "team": "Clube Esportivo Dom Bosco"
+  },
+  {
+    "cauntry": "Sweden",
+    "capacity": "43,000",
+    "name": "Ullevi",
+    "city": "Gothenburg",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "43,000",
+    "name": "Arena das Dunas",
+    "city": "Natal",
+    "use": [
+      "Association football"
+    ],
+    "team": "Federa\u00e7\u00e3o Norte-rio-grandense de Futebol"
+  },
+  {
+    "cauntry": "United Arab Emirates",
+    "capacity": "43,000",
+    "name": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "use": [
+      "Association football"
+    ],
+    "team": "UAE President Cup"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "42,831",
+    "name": "Sapporo Dome",
+    "city": "Sapporo",
+    "use": [
+      "Association football",
+      "baseball"
+    ],
+    "team": "Consadole Sapporo"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "42,788",
+    "name": "Villa Park",
+    "city": "Birmingham",
+    "use": [
+      "Association football"
+    ],
+    "team": "Aston Villa F.C."
+  },
+  {
+    "cauntry": "Poland",
+    "capacity": "42,771",
+    "name": "Stadion Miejski (Wroc\u0142aw)",
+    "city": "Wroc\u0142aw",
+    "use": [
+      "Association football"
+    ],
+    "team": "\u015al\u0105sk Wroc\u0142aw"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "42,740",
+    "name": "Zhuzhou Stadium",
+    "city": "Zhuzhou",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "Mexico",
+    "capacity": "42,648",
+    "name": "Estadio Cuauht\u00e9moc",
+    "city": "Puebla",
+    "use": [
+      "Association football"
+    ],
+    "team": "Puebla F.C."
+  },
+  {
+    "cauntry": "Venezuela",
+    "capacity": "42,500",
+    "name": "Estadio Metropolitano de M\u00e9rida",
+    "city": "M\u00e9rida",
+    "use": [
+      "Association football"
+    ],
+    "team": "Estudiantes de M\u00e9rida FC"
+  },
+  {
+    "cauntry": "Switzerland",
+    "capacity": "42,500",
+    "name": "St. Jakob-Park",
+    "city": "Basel",
+    "use": [
+      "Association football"
+    ],
+    "team": "FC Basel"
+  },
+  {
+    "cauntry": "Malaysia",
+    "capacity": "42,500",
+    "name": "Perak Stadium",
+    "city": "Ipoh",
+    "use": [
+      "Association football"
+    ],
+    "team": "Perak FA"
+  },
+  {
+    "cauntry": "Germany",
+    "capacity": "42,500",
+    "name": "Weserstadion",
+    "city": "Bremen",
+    "use": [
+      "Association football"
+    ],
+    "team": "Werder Bremen"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "42,445",
+    "name": "Petco Park",
+    "city": "San Diego",
+    "use": [
+      "Baseball"
+    ],
+    "team": "San Diego Padres"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "42,300",
+    "name": "Tohoku Electric Power Big Swan Stadium",
+    "city": "Niigata",
+    "use": [
+      "Association football"
+    ],
+    "team": "Albirex Niigata"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "42,256",
+    "name": "Jeju World Cup Stadium",
+    "city": "Seogwipo",
+    "use": [
+      "Association football"
+    ],
+    "team": "Jeju United FC"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "42,200",
+    "name": "Miller Park (Milwaukee)",
+    "city": "Milwaukee",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "cauntry": "France",
+    "capacity": "42,115",
+    "name": "Nouveau Stade de Bordeaux",
+    "city": "Bordeaux",
+    "use": [
+      "Association football"
+    ],
+    "team": "FC Girondins de Bordeaux"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "42,059",
+    "name": "Great American Ball Park",
+    "city": "Cincinnati",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Cincinnati Reds"
+  },
+  {
+    "cauntry": "United Arab Emirates",
+    "capacity": "42,056",
+    "name": "Mohammed Bin Zayed Stadium",
+    "city": "Abu Dhabi",
+    "use": [
+      "Association football"
+    ],
+    "team": "Al-Jazira Club"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "42,055",
+    "name": "Stamford Bridge (stadium)",
+    "city": "London",
+    "use": [
+      "Association football"
+    ],
+    "team": "Chelsea F.C."
+  },
+  {
+    "cauntry": "Mozambique",
+    "capacity": "42,055",
+    "name": "Est\u00e1dio do Zimpeto",
+    "city": "Maputo",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "Australia",
+    "capacity": "42,000",
+    "name": "The Gabba",
+    "city": "Brisbane",
+    "use": [
+      "Cricket",
+      "Australian rules football"
+    ],
+    "team": "Australia national cricket team"
+  },
+  {
+    "cauntry": "Ireland",
+    "capacity": "42,000",
+    "name": "McHale Park",
+    "city": "Castlebar",
+    "use": [
+      "Gaelic football",
+      "hurling"
+    ],
+    "team": "Mayo GAA"
+  },
+  {
+    "cauntry": "Mexico",
+    "capacity": "42,000",
+    "name": "Estadio Universitario (UANL)",
+    "city": "San Nicol\u00e1s de los Garza",
+    "use": [
+      "Association football"
+    ],
+    "team": "Tigres de la UANL"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "42,000",
+    "name": "Arena da Baixada",
+    "city": "Curitiba",
+    "use": [
+      "Association football"
+    ],
+    "team": "Atl\u00e9tico Paranaense"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "42,000",
+    "name": "Chengdu Sports Centre",
+    "city": "Chengdu",
+    "use": [
+      "Association football"
+    ],
+    "team": "Chengdu Blades"
+  },
+  {
+    "cauntry": "France",
+    "capacity": "42,000",
+    "name": "Stade Geoffroy-Guichard",
+    "city": "Saint-\u00c9tienne",
+    "use": [
+      "Association football"
+    ],
+    "team": "AS Saint-\u00c9tienne"
+  },
+  {
+    "cauntry": "Bolivia",
+    "capacity": "42,000",
+    "name": "Estadio Hernando Siles",
+    "city": "La Paz",
+    "use": [
+      "Association football"
+    ],
+    "team": "La Paz F.C."
+  },
+  {
+    "cauntry": "South Africa",
+    "capacity": "42,000",
+    "name": "Royal Bafokeng Stadium",
+    "city": "Phokeng",
+    "use": [
+      "Rugby union",
+      "association football",
+      "athletic"
+    ],
+    "team": "Platinum Stars F.C."
+  },
+  {
+    "cauntry": "Italy",
+    "capacity": "42,000",
+    "name": "Stadio Flaminio",
+    "city": "Rome",
+    "use": [
+      "Rugby union",
+      "association football"
+    ],
+    "team": "Italy national rugby union team"
+  },
+  {
+    "cauntry": "Turkey",
+    "capacity": "41,903",
+    "name": "Vodafone Stadium",
+    "city": "Istanbul",
+    "use": [
+      "Association football"
+    ],
+    "team": "Be\u015fikta\u015f J.K."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "41,888",
+    "name": "Nationals Park",
+    "city": "Washington, D.C.",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Washington Nationals"
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "41,654",
+    "name": "Estadio Gigante de Arroyito",
+    "city": "Rosario",
+    "use": [
+      "Association football"
+    ],
+    "team": "Rosario Central"
+  },
+  {
+    "cauntry": "Italy",
+    "capacity": "41,652",
+    "name": "Stadio Friuli",
+    "city": "Udine",
+    "use": [
+      "Association football"
+    ],
+    "team": "Udinese Calcio"
+  },
+  {
+    "cauntry": "Israel",
+    "capacity": "41,583",
+    "name": "Ramat Gan Stadium",
+    "city": "Ramat Gan",
+    "use": [
+      "Association football"
+    ],
+    "team": "Israel national football team"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "41,574",
+    "name": "Est\u00e1dio Serra Dourada",
+    "city": "Goi\u00e2nia",
+    "use": [
+      "Association football"
+    ],
+    "team": "Goi\u00e1s Esporte Clube"
+  },
+  {
+    "cauntry": "Italy",
+    "capacity": "41,507",
+    "name": "Juventus Stadium",
+    "city": "Turin",
+    "use": [
+      "Association football"
+    ],
+    "team": "Juventus F.C."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "41,503",
+    "name": "AT&amp;T Park",
+    "city": "San Francisco",
+    "use": [
+      "Baseball",
+      "American football"
+    ],
+    "team": "San Francisco Giants"
+  },
+  {
+    "cauntry": "Mexico",
+    "capacity": "41,500",
+    "name": "Estadio Morelos",
+    "city": "Morelia",
+    "use": [
+      "Association football"
+    ],
+    "team": "Monarcas Morelia"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "41,448",
+    "name": "Vanderbilt Stadium",
+    "city": "Nashville, Tennessee",
+    "use": [
+      "American football"
+    ],
+    "team": "Vanderbilt Commodores football"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "41,311",
+    "name": "Goyang Stadium",
+    "city": "Goyang",
+    "use": [
+      "Association football"
+    ],
+    "team": "Goyang KB"
+  },
+  {
+    "cauntry": "Venezuela",
+    "capacity": "41,300",
+    "name": "Polideportivo Cachamay",
+    "city": "Ciudad Guayana",
+    "use": [
+      "Association football"
+    ],
+    "team": "Atl\u00e9tico Club Mineros de Guayana"
+  },
+  {
+    "cauntry": "South Korea",
+    "capacity": "41,295",
+    "name": "Daejeon World Cup Stadium",
+    "city": "Daejeon",
+    "use": [
+      "Association football"
+    ],
+    "team": "Daejeon Citizen"
+  },
+  {
+    "cauntry": "Mexico",
+    "capacity": "41,262",
+    "name": "Plaza M\u00e9xico",
+    "city": "Mexico City",
+    "use": [
+      "Bullfighting"
+    ],
+    "team": ""
+  },
+  {
+    "cauntry": "France",
+    "capacity": "41,233",
+    "name": "Stade F\u00e9lix-Bollaert",
+    "city": "Lens",
+    "use": [
+      "Association football"
+    ],
+    "team": "RC Lens"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "41,200",
+    "name": "Colorado State Stadium",
+    "city": "Fort Collins, Colorado",
+    "use": [
+      "American football"
+    ],
+    "team": "Colorado State Rams football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "41,149",
+    "name": "SunTrust Park",
+    "city": "Atlanta",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Atlanta Braves"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "41,118",
+    "name": "Wrigley Field",
+    "city": "Chicago",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Chicago Cubs"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "41,070",
+    "name": "Comerica Park",
+    "city": "Detroit",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Detroit Tigers"
+  },
+  {
+    "cauntry": "Belarus",
+    "capacity": "41,040",
+    "name": "Dynama Stadium (Minsk)",
+    "city": "Minsk",
+    "use": [
+      "Association football"
+    ],
+    "team": "Belarus national football team"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "41,031",
+    "name": "Bulldog Stadium",
+    "city": "Fresno, California",
+    "use": [
+      "American football"
+    ],
+    "team": "Fresno State Bulldogs football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "41,000",
+    "name": "M. M. Roberts Stadium",
+    "city": "Hattiesburg, Mississippi",
+    "use": [
+      "American football"
+    ],
+    "team": "Southern Miss Golden Eagles football"
+  },
+  {
+    "cauntry": "Ecuador",
+    "capacity": "41,000",
+    "name": "Estadio Ol\u00edmpico Atahualpa",
+    "city": "Quito",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sociedad Deportivo Quito"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "40,950",
+    "name": "Minute Maid Park",
+    "city": "Houston",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Houston Astros"
+  },
+  {
+    "cauntry": "Colombia",
+    "capacity": "40,943",
+    "name": "Estadio Atanasio Girardot",
+    "city": "Medell\u00edn",
+    "use": [
+      "Association football"
+    ],
+    "team": "Atl\u00e9tico Nacional"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "40,793",
+    "name": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Kansas City Royals"
+  },
+  {
+    "cauntry": "Paraguay",
+    "capacity": "40,759",
+    "name": "Estadio Defensores del Chaco",
+    "city": "Asunci\u00f3n",
+    "use": [
+      "Association football"
+    ],
+    "team": "Asociacion Paraguaya de Futbol"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "40,728",
+    "name": "Kashima Soccer Stadium",
+    "city": "Kashima",
+    "use": [
+      "Association football"
+    ],
+    "team": "Kashima Antlers"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "40,646",
+    "name": "Ladd\u2013Peebles Stadium",
+    "city": "Mobile, Alabama",
+    "use": [
+      "American football"
+    ],
+    "team": "South Alabama Jaguars football"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "40,615",
+    "name": "Guaranteed Rate Field",
+    "city": "Chicago",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Chicago White Sox"
+  },
+  {
+    "cauntry": "Finland",
+    "capacity": "40,600",
+    "name": "Helsinki Olympic Stadium",
+    "city": "Helsinki",
+    "use": [
+      "Association football",
+      "athletics"
+    ],
+    "team": "Finland national football team"
+  },
+  {
+    "cauntry": "Spain",
+    "capacity": "40,500",
+    "name": "Estadi Cornell\u00e0-El Prat",
+    "city": "Barcelona",
+    "use": [
+      "Association football"
+    ],
+    "team": "RCD Espanyol"
+  },
+  {
+    "cauntry": "Japan",
+    "capacity": "40,500",
+    "name": "Nagoya Dome",
+    "city": "Nagoya",
+    "use": [
+      "Baseball"
+    ],
+    "team": "Chunichi Dragons"
+  },
+  {
+    "cauntry": "France",
+    "capacity": "40,494",
+    "name": "Stade de Gerland",
+    "city": "Lyon",
+    "use": [
+      "Association football"
+    ],
+    "team": "Olympique Lyonnais"
+  },
+  {
+    "cauntry": "Argentina",
+    "capacity": "40,320",
+    "name": "Estadio Ciudad de Lan\u00fas \u2013 N\u00e9stor D\u00edaz P\u00e9rez",
+    "city": "Lan\u00fas",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club Atl\u00e9tico Lan\u00fas"
+  },
+  {
+    "cauntry": "Venezuela",
+    "capacity": "40,312",
+    "name": "Estadio Metropolitano de F\u00fatbol de Lara",
+    "city": "Barquisimeto",
+    "use": [
+      "Association football"
+    ],
+    "team": "Uni\u00f3n Lara"
+  },
+  {
+    "cauntry": "Italy",
+    "capacity": "40,200",
+    "name": "Stadio San Filippo",
+    "city": "Messina",
+    "use": [
+      "Association football"
+    ],
+    "team": "F.C. Messina Peloro"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "40,199",
+    "name": "Est\u00e1dio do Pacaembu",
+    "city": "S\u00e3o Paulo",
+    "use": [
+      "Association football"
+    ],
+    "team": "Corinthians"
+  },
+  {
+    "cauntry": "Vietnam",
+    "capacity": "40,192",
+    "name": "M\u1ef9 \u0110\u00ecnh National Stadium",
+    "city": "Hanoi",
+    "use": [
+      "Association football"
+    ],
+    "team": "Vietnam national football team"
+  },
+  {
+    "cauntry": "United Kingdom",
+    "capacity": "40,158",
+    "name": "Goodison Park",
+    "city": "Liverpool",
+    "use": [
+      "Association football"
+    ],
+    "team": "Everton F.C."
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "40,000",
+    "name": "TDECU Stadium",
+    "city": "Houston",
+    "use": [
+      "American football"
+    ],
+    "team": "Houston Cougars football"
+  },
+  {
+    "cauntry": "Indonesia",
+    "capacity": "40,000",
+    "name": "Gelora Sriwijaya Stadium",
+    "city": "Palembang",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sriwijaya FC"
+  },
+  {
+    "cauntry": "Malaysia",
+    "capacity": "40,000",
+    "name": "Hang Jebat Stadium",
+    "city": "Malacca",
+    "use": [
+      "Association football"
+    ],
+    "team": "Melaka Telekom"
+  },
+  {
+    "cauntry": "Pakistan",
+    "capacity": "40,000",
+    "name": "Peoples Football Stadium",
+    "city": "Karachi",
+    "use": [
+      "Association football"
+    ],
+    "team": "HBL FC"
+  },
+  {
+    "cauntry": "Indonesia",
+    "capacity": "40,000",
+    "name": "Harapan Bangsa Stadium",
+    "city": "Banda Aceh",
+    "use": [
+      "Association football"
+    ],
+    "team": "Persiraja Banda Aceh"
+  },
+  {
+    "cauntry": "Brazil",
+    "capacity": "40,000",
+    "name": "Castel\u00e3o (Maranh\u00e3o)",
+    "city": "S\u00e3o Lu\u00eds",
+    "use": [
+      "Association football"
+    ],
+    "team": "Moto Club"
+  },
+  {
+    "cauntry": "Algeria",
+    "capacity": "40,000",
+    "name": "Stade Mohamed Hamlaoui",
+    "city": "Constantine",
+    "use": [
+      "Association football"
+    ],
+    "team": "Club Sportif de Constantine"
+  },
+  {
+    "cauntry": "Hong Kong",
+    "capacity": "40,000",
+    "name": "Hong Kong Stadium",
+    "city": "Wanchai",
+    "use": [
+      "Association football",
+      "Rugby union"
+    ],
+    "team": "Hong Kong national football team"
+  },
+  {
+    "cauntry": "Indonesia",
+    "capacity": "40,000",
+    "name": "Gelora Sriwijaya Stadium",
+    "city": "Palembang",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sriwijaya FC"
+  },
+  {
+    "cauntry": "Indonesia",
+    "capacity": "40,000",
+    "name": "Jalak Harupat Soreang Stadium",
+    "city": "Bandung",
+    "use": [
+      "Association football"
+    ],
+    "team": "Persib Bandung"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "40,000",
+    "name": "JRD Tata Sports Complex",
+    "city": "Jamshedpur",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "Libya",
+    "capacity": "40,000",
+    "name": "March 28 Stadium",
+    "city": "Benghazi",
+    "use": [
+      "Association football"
+    ],
+    "team": "Al-Ahly Benghazi"
+  },
+  {
+    "cauntry": "Malaysia",
+    "capacity": "40,000",
+    "name": "Negeri Pulau Pinang Stadium",
+    "city": "Batu Kawan",
+    "use": [
+      "Association football"
+    ],
+    "team": "Penang FA"
+  },
+  {
+    "cauntry": "Ghana",
+    "capacity": "40,000",
+    "name": "Accra Sports Stadium",
+    "city": "Accra",
+    "use": [
+      "Association football"
+    ],
+    "team": "Accra Hearts of Oak Sporting Club"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "40,000",
+    "name": "Rentschler Field (stadium)",
+    "city": "East Hartford, Connecticut",
+    "use": [
+      "American football"
+    ],
+    "team": "Connecticut Huskies football"
+  },
+  {
+    "cauntry": "Malaysia",
+    "capacity": "40,000",
+    "name": "Sarawak Stadium",
+    "city": "Kuching",
+    "use": [
+      "Association football"
+    ],
+    "team": "Sarawak FA"
+  },
+  {
+    "cauntry": "Gabon",
+    "capacity": "40,000",
+    "name": "Stade d'Angondj\u00e9",
+    "city": "Angondj\u00e9",
+    "use": [
+      "Association football"
+    ],
+    "team": "Gabon national football team"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "40,000",
+    "name": "Bo'an Stadium",
+    "city": "Shenzhen",
+    "use": [
+      "Association football"
+    ],
+    "team": "Shenzhen Ruby F.C."
+  },
+  {
+    "cauntry": "China",
+    "capacity": "40,000",
+    "name": "Kunming Tuodong Sports Center",
+    "city": "Kunming",
+    "use": [
+      "Association football"
+    ],
+    "team": "China national football team"
+  },
+  {
+    "cauntry": "India",
+    "capacity": "40,000",
+    "name": "Vidarbha Cricket Association Ground",
+    "city": "Nagpur",
+    "use": [
+      "Cricket"
+    ],
+    "team": "Vidarbha cricket team"
+  },
+  {
+    "cauntry": "Burma",
+    "capacity": "40,000",
+    "name": "Bogyoke Aung San Stadium",
+    "city": "Yangon",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "40,000",
+    "name": "Wuhu Olympic Stadium",
+    "city": "Wuhu",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "40,000",
+    "name": "Riverside Sports Center",
+    "city": "Shanghai",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "United States",
+    "capacity": "40,000",
+    "name": "Nippert Stadium",
+    "city": "Cincinnati",
+    "use": [
+      "American football",
+      "Association football"
+    ],
+    "team": "Cincinnati Bearcats football"
+  },
+  {
+    "cauntry": "China",
+    "capacity": "40,000",
+    "name": "Riverside Sports Center",
+    "city": "Shanghai",
+    "use": [
+      "Association football"
+    ],
+    "team": "local football teams"
+  },
+  {
+    "cauntry": "Malaysia",
+    "capacity": "40,000",
+    "name": "Darul Makmur Stadium",
+    "city": "Kuantan",
+    "use": [
+      "Association football",
+      "Athletics"
+    ],
+    "team": "Pahang FA"
+  }
+]
