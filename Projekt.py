@@ -112,7 +112,6 @@ def razclenjeni_stadioni(sez):
     return new_list
 
 
-# ['name', 'capacity', 'city', 'country', 'team', 'use']
 
 def slovar_stadionov(sez):
     l = []
